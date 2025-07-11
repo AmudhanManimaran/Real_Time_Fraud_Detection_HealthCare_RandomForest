@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fraud Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2>Predicted Fraud Results</h2>
+    <div>
+        {{ table|safe }}
+    </div>
+    <a href="/">Go Back</a>
+</body>
+</html>

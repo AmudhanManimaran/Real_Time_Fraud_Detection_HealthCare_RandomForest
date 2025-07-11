@@ -1,0 +1,873 @@
+Patient ID,Age,Gender,Date Admitted,Date Discharged,Diagnosis,Amount Billed,Fraud Type
+96e138e1-4c8d-4d9a-8547-b731e53e20da,51.0,Male,2022-02-19,2022-02-20,Pregnancy,66334.02,Wrong Diagnoses
+4021,18.0,Male,2025-06-13 00:00:00,2023-07-03 00:00:00,THROAT SWAB MCS,9635.0,No Fraud
+3e0d312d-b801-4b5b-bb66-852dff5f167c,14.0,Female,2023-05-17,2023-05-24,Cataract Surgery,192407.48,No Fraud
+9df0707d-a8e4-4955-8ea1-78d301905779,64.0,Female,2024-06-10,2024-06-12,Routine Check-up,138537.29,No Fraud
+88bd5a43-4d84-429f-a2a5-0c33f2201f5e,33.0,Male,2023-10-24,2023-11-03,Pregnancy,86429.54,Wrong Diagnoses
+2b3d4a4b-a23b-41b2-9fab-8655def2789f,92.0,Female,2024-12-12,2024-12-19,Routine Check-up,91311.08,No Fraud
+6cacb906-2595-46ca-80d7-bbcc4536ce8e,96.0,Male,2022-07-26,2022-08-01,Pregnancy,136500.01,Wrong Diagnoses
+616d0184-f560-4b5a-807a-c5820019ccce,44.0,Male,2024-09-30,2024-10-03,Pregnancy,152098.58,Wrong Diagnoses
+344bd35b-5b18-4b75-a4c6-fb0a3edd4c69,54.0,Male,2023-09-09,2023-09-13,Pregnancy,124397.08,No Fraud
+9ecef4f5-3b7e-4353-b7a0-c2db6b31892d,20.0,Male,2022-10-28,2022-11-06,Cancer Treatment,127816.13,No Fraud
+32b64c94-20c4-4e10-8f13-344268d60eb5,15.0,Male,2022-11-22,2022-11-29,Pregnancy,124484.17,No Fraud
+02323a59-dd88-4627-aaad-a1b59e7f24be,23.0,Male,2023-07-05,2023-07-15,Pneumonia,29025.92,No Fraud
+5f6184f9-1e22-4d8b-86c6-2cddd92d4cf4,35.0,Male,2024-04-20,2024-04-30,Pregnancy,97318.84,No Fraud
+509b7790-8d36-4a09-938a-bf8ea1168dea,88.0,Female,2024-10-03,2024-10-03,Diabetes,30517.58,No Fraud
+77,45.22848664688427,Female,2024-11-20,2024-11-20,,6860.0,No Fraud
+50166595-b80d-419a-962d-0043fd442aaf,75.0,Female,2022-10-05,2022-10-12,Diabetes,37778.43,No Fraud
+b60de189-5f35-4477-a2de-a4931248ece4,2.0,Female,2023-07-28,2023-07-31,Hypertension,158431.0,Wrong Diagnoses
+7f5f1d25-b6bb-43ed-a128-4ab34f023625,62.0,Male,2024-06-24,2024-07-03,Gastroenteritis,57875.69,No Fraud
+739000d4-5fb8-4a34-b0e4-62dea7a01e71,20.0,Female,2022-02-08,2022-02-08,Migraine,72528.17,No Fraud
+d6c88794-09a8-4847-be90-fd5455181ade,93.0,Male,2023-08-23,2023-08-29,Hypertension,63111.83,No Fraud
+66459ac7-7644-4640-85a6-e35ae7e5f44e,63.0,Male,2024-12-11,2024-12-18,Cataract Surgery,169271.62,No Fraud
+89293674-00d9-4bd0-bb8c-a62efdbd8291,17.0,Female,2022-04-04,2022-04-13,Routine Check-up,141076.77,Wrong Diagnoses
+ce28481a-81d5-4265-8b92-8ee577d235a2,78.0,Female,2022-07-29,2022-08-05,Diabetes,31544.35,No Fraud
+8027a459-a55c-493f-8281-0ed1dcad7f59,29.0,Male,2023-04-10,2023-04-16,Gastroenteritis,23454.61,No Fraud
+db1a0b18-4945-4d67-a0a6-09116c2a9d75,21.0,Male,2022-01-13,2022-01-15,Pregnancy,168574.82,Wrong Diagnoses
+40546f0a-6a43-4355-834a-378288a7f9b9,42.0,Female,2024-02-15,2024-02-25,Migraine,90642.47,Wrong Diagnoses
+737ce5dc-6924-4126-a78c-1134ae09be02,33.0,Female,2022-11-13,2022-11-18,Pregnancy,110564.04,Wrong Diagnoses
+f8c36a33-bf8d-4252-af1c-9032d3c3fa30,3.0,Male,2024-01-07,2024-01-13,Pregnancy,89559.8,Wrong Diagnoses
+d4e3eb55-4ab1-4c01-b1df-5dca988bb6ac,23.0,Male,2023-06-24,2023-06-26,Migraine,44198.32,No Fraud
+06eb3d09-3e75-4568-880c-c5192ba2daa9,34.0,Male,2024-03-07,2024-03-12,Pregnancy,146738.78,Wrong Diagnoses
+c15af52b-61d4-4776-99ea-408579799211,10.0,Male,2024-02-24,2024-02-26,Pregnancy,20543.76,Wrong Diagnoses
+3345ec68-43fc-40d8-bdb1-bb55354ff9e2,23.0,Female,2023-04-09,2023-04-11,Pregnancy,188094.58,Wrong Diagnoses
+dba73df0-8b02-4dda-9c56-5ca7527f9360,23.0,Female,2023-10-02,2023-10-11,Cataract Surgery,69145.18,No Fraud
+0c244e5d-0a8a-4956-ab76-72d77fc3f4c8,52.0,Female,2022-10-27,2022-11-03,Cataract Surgery,155575.95,No Fraud
+ba13255b-254c-4f05-bb29-e99d843a3086,63.0,Male,2024-10-10,2024-10-13,Diabetes,75136.43,No Fraud
+9f7e571d-2801-4faf-9717-e426a259b883,77.0,Female,2023-02-22,2023-02-26,Cataract Surgery,86941.28,Wrong Diagnoses
+88984ecf-2943-4f08-8010-f2eba17d4f22,81.0,Male,2022-12-14,2022-12-20,Cesarean Section,44670.74,No Fraud
+387f063c-dd38-4f03-9aaf-298eb0c688f3,76.0,Female,2022-02-20,2022-02-23,Gastroenteritis,81281.13,Wrong Diagnoses
+6ff570d8-868a-4ec7-a9f8-cfefe08bf490,34.0,Male,2024-02-17,2024-02-26,Pregnancy,191106.56,Wrong Diagnoses
+52ded5b5-53e7-4099-8342-02b89d5db60a,43.0,Female,2022-02-01,2022-02-04,Pneumonia,182459.52,Wrong Diagnoses
+4eca1df4-479d-4c2e-9875-1c0264beb2c1,96.0,Male,2024-02-13,2024-02-23,Gastroenteritis,138220.42,No Fraud
+366,65.0,Male,2025-03-04,,HTN,6308.4,No Fraud
+665,45.22848664688427,Female,2023-04-03,2023-04-03,DM,840.0,No Fraud
+3b4923f7-2c8f-484c-90fb-f44ecab2e409,70.0,Female,2023-03-10,2023-03-17,Pregnancy,101587.12,Wrong Diagnoses
+ddd4590b-1fe4-46fc-9b48-7559269a439a,70.0,Male,2024-03-03,2024-03-06,Pregnancy,60762.91,Wrong Diagnoses
+8b69df97-b362-4e4b-918b-0902848cfcd6,45.0,Male,2022-10-18,2022-10-27,Pregnancy,59367.76,Wrong Diagnoses
+db0ffbe0-6a31-46d8-a411-957ed1d800aa,76.0,Male,2022-05-01,2022-05-05,Pregnancy,195660.8,Wrong Diagnoses
+605ed413-0608-4bb5-b413-b47c71dfef54,94.0,Female,2023-12-04,2023-12-09,Diabetes,188999.0,Wrong Diagnoses
+2244,45.22848664688427,Female,2024-03-28,2024-03-28,DM,420.0,No Fraud
+673406c8-b29c-44b9-b978-c1724129e84f,56.0,Female,2023-09-07,2023-09-17,Gastroenteritis,182499.69,Wrong Diagnoses
+14feec25-1426-412c-a73f-b9454901db25,38.0,Male,2022-01-31,2022-01-31,Pregnancy,165741.37,Wrong Diagnoses
+63ec98cf-9c0a-4df7-9a5c-2cbfcf52f2b2,96.0,Male,2024-10-03,2024-10-05,Pregnancy,107158.35,Wrong Diagnoses
+38a6d1cd-7e5d-4bf5-8fac-b47a5d8b35b2,60.0,Female,2022-11-20,2022-11-21,Routine Check-up,136131.1,Wrong Diagnoses
+87bf22d7-ddd0-4387-bc3d-c0d685eb2fcc,100.0,Male,2022-08-11,2022-08-19,Routine Check-up,90818.39,No Fraud
+2a616fc0-3336-45eb-9d74-6807a23db497,96.0,Female,2023-06-15,2023-06-15,Diabetes,64426.11,Wrong Diagnoses
+3e18a694-ac78-4f41-95fd-dd411acb3acb,64.0,Male,2022-10-11,2022-10-20,Pregnancy,79559.68,Wrong Diagnoses
+1edc8716-9d3d-4a15-81eb-79a2d94cccbc,16.0,Female,2022-11-11,2022-11-12,Cesarean Section,151251.23,No Fraud
+d11b957e-64a4-40b0-a494-9236ceaa8ae5,79.0,Male,2022-09-21,2022-09-26,Pregnancy,66918.58,Wrong Diagnoses
+ec4a3e6d-9d1c-446c-b825-97a60d8b5189,91.0,Male,2022-03-17,2022-03-18,Hypertension,63540.79,No Fraud
+7cfc2d93-278c-407e-bbb4-82e65a51ac02,74.0,Female,2023-11-18,2023-11-19,Cancer Treatment,68239.51,Wrong Diagnoses
+01a08887-03d2-4e01-b5f3-cf0f65e16184,10.0,Female,2022-06-27,2022-07-05,Cancer Treatment,142103.11,No Fraud
+c4b13221-a87d-4b0c-9a98-2cd640e8c1c7,40.0,Male,2023-06-21,2023-06-25,Gastroenteritis,69351.29,No Fraud
+622f6dbf-025b-48c4-a60f-3427490ec354,58.0,Male,2024-03-21,2024-03-24,Pregnancy,89940.46,Wrong Diagnoses
+b3a36067-ce69-4efc-91ee-cdae7d51f505,96.0,Female,2022-12-13,2022-12-23,Cancer Treatment,98659.26,No Fraud
+2b2fef60-91b2-4b6d-8cf9-9577f4c24627,29.0,Male,2022-09-17,2022-09-21,Cancer Treatment,166870.45,No Fraud
+612f25d4-0893-4530-8df9-052968c12dde,99.0,Female,2022-01-16,2022-01-20,Gastroenteritis,144471.0,Wrong Diagnoses
+bec522c7-9162-4fcf-b387-68374cf0f2a4,94.0,Male,2023-02-04,2023-02-12,Migraine,73921.82,No Fraud
+160,45.22848664688427,Male,2024-07-24,,REFRACTIVE ERROR,4500.0,No Fraud
+4c34df91-5324-4746-934c-37fc79c04924,60.0,Male,2023-05-06,2023-05-09,Pregnancy,198331.84,Wrong Diagnoses
+87ebd7d2-12a2-4ab8-8042-c491fa895684,61.0,Male,2022-01-30,2022-01-31,Pregnancy,159562.31,Wrong Diagnoses
+3a18b53c-a546-4b0a-a759-8ef66ff569b3,30.0,Female,2022-10-02,2022-10-02,Pregnancy,177832.6,No Fraud
+43af03df-c982-42a2-a502-cbbbdebc4a7e,78.0,Female,2023-01-30,2023-01-30,Hypertension,193815.02,Wrong Diagnoses
+4b77c014-c257-4d6b-b1ff-18238795ece1,46.0,Female,2022-04-04,2022-04-11,Hypertension,193929.37,Wrong Diagnoses
+d93439b4-fe28-4e0d-83c6-77309e772f0d,44.0,Female,2023-04-14,2023-04-21,Pregnancy,156986.8,No Fraud
+55603457-61b2-4552-8c45-1789e13a42e3,68.0,Male,2023-06-29,2023-07-05,Pregnancy,140736.8,Wrong Diagnoses
+69739f22-4d93-4d73-a7f1-f79c8b256cc0,90.0,Male,2024-08-21,2024-08-22,Pregnancy,146350.07,Wrong Diagnoses
+4106,95.0,Female,2022-03-07 00:00:00,2020-03-01 00:00:00,POST FISTULOTOMY,2436.0,No Fraud
+80d6c263-0398-4788-a2ae-93f4d7cf8177,54.0,Male,2022-03-25,2022-03-28,Routine Check-up,31734.7,No Fraud
+b8b4c54e-dbe8-4c67-8e1d-1b2405238a3c,2.0,Female,2024-01-05,2024-01-13,Hypertension,95142.09,Wrong Diagnoses
+b3b9ab05-39c2-4753-8ea6-fa4f5b3ba236,53.0,Female,2023-02-03,2023-02-11,Hypertension,127730.61,Wrong Diagnoses
+88,45.22848664688427,Male,2024-11-25,2024-11-25,OSTEOARHTHRITIS OF THE RGT WRIST,7210.0,No Fraud
+b2780c89-d029-4611-9f1d-2b1a034638ac,5.0,Male,2023-03-10,2023-03-18,Diabetes,149539.51,No Fraud
+0df08c86-aa28-4b4a-a54a-4b8c782f56ac,91.0,Male,2023-04-22,2023-04-22,Diabetes,128290.13,No Fraud
+320d4625-a639-452d-84cf-85aa63202ce3,13.0,Female,2024-05-06,2024-05-12,Gastroenteritis,127704.35,No Fraud
+eb8f38d8-52ed-493a-aa9c-c0542abac39d,71.0,Male,2022-03-17,2022-03-17,Pregnancy,62392.6,Wrong Diagnoses
+862e5078-0eb7-43ef-b4c9-ade28dc6e200,63.0,Female,2023-12-22,2023-12-25,Cataract Surgery,165522.85,No Fraud
+6177fda8-b0bb-452c-9583-69942d2a004f,18.0,Male,2022-12-11,2022-12-12,Pregnancy,60206.86,Wrong Diagnoses
+a6fc380e-2db8-49eb-af2c-72a23eecf2cf,49.0,Female,2024-11-07,2024-11-11,Migraine,62892.14,Wrong Diagnoses
+2c7628a5-fb41-4349-a180-d83fffde5c5f,44.0,Female,2024-09-26,2024-09-30,Gastroenteritis,193057.64,No Fraud
+4149,13.0,Male,2024-10-05 00:00:00,2024-10-20 00:00:00,APICAL PERIDONTITIS,18878.0,No Fraud
+0bb07f99-f0f9-4737-9f70-1d60831d4c10,31.0,Male,2024-02-19,2024-02-25,Pregnancy,139003.51,Wrong Diagnoses
+a157605d-39ec-4a27-8341-6e23dcd07131,10.0,Female,2024-06-04,2024-06-07,Cesarean Section,159407.41,Wrong Diagnoses
+ec62247a-f984-424e-953a-a4022a8e0e67,59.0,Male,2022-12-19,2022-12-25,Pneumonia,76053.02,No Fraud
+8e791fc5-dc91-4e05-a227-37e7a28a041c,64.0,Female,2022-06-27,2022-06-29,Cancer Treatment,137175.22,Wrong Diagnoses
+4a19da32-d701-496a-9ea1-1d7281115a71,78.0,Female,2023-07-24,2023-07-27,Cataract Surgery,100197.49,No Fraud
+432632bb-bdf1-49df-afae-11342267375d,65.0,Male,2024-10-14,2024-10-15,Gastroenteritis,186714.01,No Fraud
+3c960260-98c8-4a42-8466-339ee1ba1504,29.0,Female,2023-01-12,2023-01-20,Diabetes,161642.61,No Fraud
+78f92972-8fc7-444d-8ba5-c42903044905,9.0,Female,2022-08-28,2022-08-31,Hypertension,104199.73,Wrong Diagnoses
+b55ef956-0dcc-4018-80e0-963684183e75,54.0,Female,2023-02-14,2023-02-17,Routine Check-up,37526.04,Wrong Diagnoses
+c632c4cd-836c-471a-9c2f-106ed4d9280f,10.0,Male,2022-09-06,2022-09-06,Pneumonia,132021.79,No Fraud
+9aca95e8-9f30-4fb9-b594-b91c84fa2f38,14.0,Female,2024-07-15,2024-07-19,Pregnancy,77737.59,No Fraud
+221,25.0,Male,2024-03-05,2025-03-02,REFRACTIVE ERROR,12500.0,No Fraud
+cb344f7c-b3cc-4c72-af70-d92a259f39b2,44.0,Female,2024-12-06,2024-12-08,Diabetes,143453.81,No Fraud
+a275bbb3-93c3-414d-9c91-dbb4372071b6,73.0,Male,2024-08-22,2024-08-24,Pregnancy,162543.18,Wrong Diagnoses
+21741bb4-c54e-466d-be11-4990d76f11ce,78.0,Male,2022-12-15,2022-12-24,Pregnancy,35657.62,Wrong Diagnoses
+b9d8f13d-69ca-4f6f-856a-5c8238e691f1,19.0,Male,2024-02-28,2024-03-09,Hypertension,83858.83,No Fraud
+cecb0fe0-c894-4001-aee5-0ebb3088d552,74.0,Male,2023-04-08,2023-04-14,Pregnancy,176265.61,No Fraud
+1ba167d9-307e-4de1-9638-8a719fa8f457,33.0,Female,2023-07-19,2023-07-25,Cesarean Section,49621.32,Wrong Diagnoses
+c707c00a-d893-4812-8b9a-a3eba3f462fa,13.0,Female,2024-09-21,2024-09-22,Cesarean Section,180678.12,Wrong Diagnoses
+4ec96866-f0da-4154-9fa4-8e6adeb08c86,80.0,Female,2023-06-28,2023-07-02,Cesarean Section,60899.72,Wrong Diagnoses
+6f363894-5153-4ee7-b1cd-997768538d23,83.0,Female,2024-02-26,2024-03-01,Pregnancy,22910.52,No Fraud
+047544ba-2580-4cbf-951d-610e40033f78,72.0,Male,2022-02-26,2022-03-04,Cancer Treatment,122546.83,No Fraud
+d9fe7451-73a9-4ec2-b2c0-4d57aa4656aa,65.0,Male,2023-06-28,2023-06-28,Pregnancy,50695.47,Wrong Diagnoses
+cbf08a47-36f1-4464-b0aa-d5b847f4b9f4,41.0,Female,2022-11-06,2022-11-14,Routine Check-up,29354.83,Wrong Diagnoses
+dbe8fa32-40f2-4dde-986b-3cf36162d7e5,94.0,Female,2023-11-22,2023-11-30,Hypertension,29689.49,Wrong Diagnoses
+a1baa847-8050-4e0a-b303-dcb2117ddaae,53.0,Male,2024-02-10,2024-02-13,Pregnancy,69602.02,Wrong Diagnoses
+f6d6b195-cd34-4718-97f1-e1cbe75995c1,19.0,Female,2024-08-25,2024-08-26,Cancer Treatment,130112.82,Wrong Diagnoses
+b753aef4-eca6-4aee-bedc-f0dc77171b14,25.0,Female,2023-06-04,2023-06-13,Hypertension,120387.59,Wrong Diagnoses
+fdb42fe1-4e4c-4cb0-a4b8-c5d790778d1e,31.0,Female,2022-01-30,2022-02-01,Pregnancy,106856.91,No Fraud
+d67c6659-f127-4e36-a77a-dce784c5b006,25.0,Male,2023-08-17,2023-08-22,Routine Check-up,181680.23,No Fraud
+4ef1ff28-007f-41ef-825c-9f0b3902e593,59.0,Female,2024-05-23,2024-06-02,Pneumonia,127851.61,No Fraud
+f40b896e-edbf-4a1a-ad54-a90db7155f89,90.0,Male,2024-10-05,2024-10-07,Pneumonia,103567.96,No Fraud
+1175a642-5f3d-44cf-a892-ef37259f4343,10.0,Male,2024-11-05,2024-11-08,Routine Check-up,50078.02,No Fraud
+4044,75.0,Male,2024-10-05 00:00:00,2022-06-09 00:00:00,FRACTURED COMPOSITE RESTORATION,4162.0,No Fraud
+248,45.22848664688427,Female,2024-02-16,2025-02-03,UTI,4600.0,No Fraud
+cbf7a9b0-2252-4049-b75f-12c4dd2b7485,5.0,Male,2022-07-10,2022-07-16,Hypertension,156186.91,No Fraud
+c3bcdfad-ecd2-41bf-ab18-4d091a90b028,57.0,Male,2023-07-24,2023-08-02,Gastroenteritis,33097.23,No Fraud
+fa632671-124f-4110-99bb-b11efd85554f,73.0,Male,2023-08-16,2023-08-19,Pregnancy,40828.39,Wrong Diagnoses
+21817950-c486-4155-8a37-0220a4b3b744,35.0,Male,2022-10-17,2022-10-23,Pregnancy,27587.08,No Fraud
+532f2b46-48a1-4180-819e-84991f9a3828,60.0,Male,2022-11-16,2022-11-25,Diabetes,70673.82,No Fraud
+ca43a5f4-482b-49a6-ae38-99be13fd273a,99.0,Male,2023-06-24,2023-06-27,Gastroenteritis,193360.72,No Fraud
+cb7f7884-41b7-4045-af32-511d766ec3f7,79.0,Male,2022-10-08,2022-10-18,Pregnancy,180527.64,Wrong Diagnoses
+d9196726-b35e-4940-bd4e-da93fedc3ec4,52.0,Female,2022-08-13,2022-08-16,Hypertension,34128.64,Wrong Diagnoses
+21db3fb3-4a23-4412-a158-0cccd24a8b18,15.0,Female,2024-11-16,2024-11-18,Cancer Treatment,33549.0,No Fraud
+fed66f92-9dc1-4952-832e-df48636cf3ea,89.0,Male,2024-10-09,2024-10-11,Pregnancy,160238.47,Wrong Diagnoses
+45a7385b-e2af-420d-8248-977d563084b1,74.0,Female,2022-10-03,2022-10-05,Diabetes,168137.08,Wrong Diagnoses
+a28d9d43-2bd2-4389-840f-5f45b92c0e56,32.0,Female,2023-11-23,2023-12-02,Gastroenteritis,107762.81,No Fraud
+4f3110e3-791b-450a-af0d-302c81619c1f,36.0,Female,2023-05-18,2023-05-20,Routine Check-up,90511.0,No Fraud
+81,45.22848664688427,Female,2024-11-04,2024-11-04,MENIGITIS R/O CEREBRAL MALARIA,4270.0,No Fraud
+4045,30.0,Female,2020-09-13 00:00:00,2025-08-22 00:00:00,MULTIPARA,10396.0,No Fraud
+8281fc00-75d1-4f02-bff6-29ca02fa3c25,19.0,Male,2024-10-02,2024-10-05,Gastroenteritis,193004.39,No Fraud
+252f52f6-818f-4d09-96e7-2ae59af8988c,95.0,Female,2024-10-30,2024-11-01,Gastroenteritis,132231.41,No Fraud
+44ce8495-60fc-46ad-bc24-6cf543723e78,15.0,Male,2023-03-14,2023-03-24,Pregnancy,139624.3,Wrong Diagnoses
+73f2028a-997f-425e-b003-a60e37a684e0,44.0,Male,2024-05-09,2024-05-13,Hypertension,28020.19,No Fraud
+3ef7dbb2-f938-411a-b5e2-84ca4b6159d4,87.0,Female,2024-08-29,2024-08-29,Cataract Surgery,126241.52,Wrong Diagnoses
+4024,72.0,Male,2023-04-14 00:00:00,2024-12-05 00:00:00,OBSTRUCTIVE ADENOTONSILLAR DX WORKED UP FOR ADENOTONSILLECTOMY,10607.0,No Fraud
+639c2506-c439-46a1-a763-020fcf8df21d,24.0,Male,2024-10-26,2024-11-03,Pregnancy,47027.66,Wrong Diagnoses
+b0a7ed12-57eb-4baa-86cb-1161125655fb,35.0,Female,2023-06-13,2023-06-18,Hypertension,160668.24,No Fraud
+ed742b5a-a93c-4626-9084-5e1795394e17,20.0,Male,2023-02-12,2023-02-19,Routine Check-up,139949.37,No Fraud
+9032a57a-85f5-44f8-b1ff-81ad3f1440fb,37.0,Female,2023-01-09,2023-01-14,Diabetes,180652.06,Wrong Diagnoses
+de667196-eced-4577-bb12-ede6ae486df5,12.0,Male,2022-01-07,2022-01-13,Pregnancy,56245.48,No Fraud
+61768a49-2ba8-427b-9047-7ddb93ddcfc6,35.0,Female,2022-09-28,2022-10-04,Cesarean Section,24500.74,No Fraud
+e44686c5-85c8-4e87-bf37-171e243bd5a1,79.0,Female,2023-04-01,2023-04-03,Pregnancy,180349.79,Wrong Diagnoses
+1cf5556f-3646-4713-a45e-b58feee894f3,89.0,Female,2022-04-21,2022-04-28,Pregnancy,115375.36,Wrong Diagnoses
+1da7a3ea-14c5-458b-8763-afc4eaf6f6ce,72.0,Male,2023-08-24,2023-08-25,Cesarean Section,114210.36,No Fraud
+ae86cabf-c75b-4bf1-8865-2cddf4098aba,13.0,Female,2024-03-06,2024-03-16,Cataract Surgery,27814.26,No Fraud
+8c637a07-7d9a-4292-b7a2-8fe83e9e4724,9.0,Male,2024-02-28,2024-02-29,Pregnancy,87196.77,Wrong Diagnoses
+317adc98-fbf3-47d1-8da1-7fd501ad67b9,18.0,Male,2023-05-19,2023-05-22,Pneumonia,69638.16,No Fraud
+e6a36b30-202c-4abf-ae70-9f45de7ac2c0,85.0,Female,2022-03-23,2022-03-28,Pregnancy,190480.97,Wrong Diagnoses
+80c085dd-6d75-474a-a52f-d2390b6dedef,48.0,Male,2023-09-23,2023-09-26,Routine Check-up,141343.45,No Fraud
+60fe7b92-7e9e-44d5-83df-e46c21e15077,5.0,Male,2023-09-27,2023-10-02,Pneumonia,37220.37,No Fraud
+84413a78-97cc-4c58-aff9-dcfc865d36ba,60.0,Male,2024-08-06,2024-08-07,Pregnancy,84403.69,No Fraud
+fd762871-a232-4373-bcf3-dfaccbd4f77e,78.0,Male,2022-02-13,2022-02-19,Pregnancy,24890.14,No Fraud
+f7e7cb29-6507-43f0-95de-50faba4241bf,100.0,Male,2024-08-01,2024-08-10,Pregnancy,89069.99,Wrong Diagnoses
+df8741dd-3218-49e1-bd23-100930f33dc6,40.0,Male,2024-11-08,2024-11-13,Migraine,20836.01,No Fraud
+cdbc21a2-5b9e-4346-b5db-8244a8ca8134,16.0,Female,2022-04-12,2022-04-20,Hypertension,142123.44,No Fraud
+387,45.22848664688427,Female,2023-11-10,2023-11-10,CYESIS IN KNOWN CHRONIC HYPERTENSIVE,844.8,No Fraud
+184afbc2-aee9-4d61-bde4-7047b6533721,41.0,Male,2024-03-13,2024-03-16,Cesarean Section,99875.04,No Fraud
+4175,72.0,Male,2023-07-27 00:00:00,2024-03-28 00:00:00,HYPOCALCAEMIA R/O KIDNEY DISEASE,8076.0,No Fraud
+4908bef9-0df8-4d7a-82d2-8f44888027f5,83.0,Male,2024-09-09,2024-09-09,Pregnancy,66717.52,No Fraud
+2f40e07d-9883-4a10-88ae-79a3e6b61289,100.0,Male,2024-02-22,2024-03-03,Cancer Treatment,132301.25,No Fraud
+2411154f-68c0-40fc-94b9-636935738d9e,51.0,Male,2023-09-03,2023-09-08,Pregnancy,47674.11,Wrong Diagnoses
+d1095a5c-bda4-4b7e-b3f1-ae10390f0299,71.0,Female,2023-12-02,2023-12-10,Pregnancy,28373.33,Wrong Diagnoses
+d50077a5-b1d4-42ab-a333-c3464e0d89a8,6.0,Female,2022-05-22,2022-05-24,Migraine,61867.03,No Fraud
+84984661-34a5-4df0-aac8-4bbb00874efb,36.0,Male,2024-06-23,2024-06-26,Hypertension,137886.99,No Fraud
+c41ae580-c786-48e2-aa2c-6a609960be5f,16.0,Male,2024-06-27,2024-07-07,Hypertension,167431.43,No Fraud
+7e9350fd-26db-4c73-a9ac-c452a36d32b3,70.0,Female,2022-01-24,2022-01-24,Gastroenteritis,25548.43,Wrong Diagnoses
+4a0ec873-9b90-4421-b341-417182387f94,9.0,Male,2023-05-11,2023-05-18,Pregnancy,54562.93,Wrong Diagnoses
+a94dca1f-e8db-4f2d-b904-1a449c1f7f59,37.0,Female,2024-09-02,2024-09-08,Hypertension,46347.15,Wrong Diagnoses
+350,45.22848664688427,Female,2023-04-02,2025-12-06,LEFT ANKLE ULCER + CELLULITIS,4900.0,No Fraud
+96699fee-23bf-4109-b0b5-e799c2d4a211,72.0,Female,2022-04-11,2022-04-12,Hypertension,132972.45,Wrong Diagnoses
+7a8d6567-3790-4396-b32a-1e004842a9f2,70.0,Female,2023-04-08,2023-04-13,Routine Check-up,144967.69,Wrong Diagnoses
+a1110bd4-5ad6-441d-a419-9c67f110753f,82.0,Male,2022-10-19,2022-10-24,Migraine,41979.78,No Fraud
+126,45.22848664688427,Male,2024-09-18,2024-09-18,HTN/BPH/ HYPERLIPIDEMIA,5750.0,No Fraud
+b162c40d-bf1b-4ab5-a5e6-45d38d8b6dd3,52.0,Female,2022-09-19,2022-09-23,Hypertension,198588.44,No Fraud
+23c55e80-2202-43f6-a493-d4e44f293b35,83.0,Female,2022-04-27,2022-05-01,Diabetes,99988.83,Wrong Diagnoses
+8aca53ba-8d11-4bb9-97a5-db254a1476af,53.0,Female,2022-07-13,2022-07-19,Routine Check-up,138210.09,No Fraud
+d5961245-8cfc-43ca-bb29-b779488d6989,6.0,Female,2024-07-05,2024-07-11,Pneumonia,197298.14,No Fraud
+b8a66052-b502-4b67-909d-f7b08e145b71,30.0,Female,2023-02-07,2023-02-14,Cesarean Section,199695.25,Wrong Diagnoses
+506838c1-ecb2-432a-b8a2-a8d159c1d710,63.0,Male,2022-06-23,2022-07-01,Migraine,43854.44,No Fraud
+ec964c19-560d-445e-8283-e855bd19e85c,56.0,Male,2022-12-29,2022-12-29,Pregnancy,43582.62,Wrong Diagnoses
+cf9838df-545e-405b-b68d-2022ec0e00a3,13.0,Male,2023-03-19,2023-03-26,Pregnancy,33946.05,Wrong Diagnoses
+4499cfdf-7b31-4d7c-a01b-ff91a3977fe0,40.0,Female,2024-07-19,2024-07-24,Cancer Treatment,31154.78,Wrong Diagnoses
+c74814cf-fb47-4908-8069-212c42925127,68.0,Male,2023-02-19,2023-02-24,Pregnancy,97476.93,Wrong Diagnoses
+140,45.22848664688427,Female,2024-08-15,2024-09-01,BOO BPH,13950.0,No Fraud
+e3f4ea41-3da5-4342-8990-ac8cee1a6157,100.0,Female,2024-03-31,2024-04-09,Cancer Treatment,41849.29,No Fraud
+bf4299d9-1836-4cf6-b898-c165629eb2fe,66.0,Female,2022-04-02,2022-04-05,Pregnancy,99279.44,Wrong Diagnoses
+5505edd7-f749-4483-93e9-63b7d7db1b26,33.0,Male,2022-11-14,2022-11-19,Cesarean Section,116826.15,No Fraud
+3aef62f9-ceae-485b-9461-64d24725c387,15.0,Female,2024-02-26,2024-02-28,Pneumonia,21095.76,No Fraud
+b39fcd63-91d4-46ca-9063-76b9d39921f8,63.0,Female,2024-01-22,2024-01-22,Diabetes,120879.31,No Fraud
+64bb77dd-ed85-4e85-9a38-68c7dce43bba,92.0,Male,2024-05-06,2024-05-07,Pregnancy,119671.08,Wrong Diagnoses
+20c660fa-6b4f-4bcc-b492-b9a9e3c2b7b7,65.0,Male,2023-05-10,2023-05-16,Cataract Surgery,149893.33,No Fraud
+b1e4e226-7bd2-44c1-bd96-d0fb8deb133a,17.0,Female,2024-09-03,2024-09-08,Cancer Treatment,133406.22,Wrong Diagnoses
+4101,82.0,Male,2021-08-09 00:00:00,2022-09-19 00:00:00,HTN/BPH R/O DM,16321.0,No Fraud
+8c1d34ac-b452-40fb-a9e7-3165e1fde777,29.0,Female,2024-11-27,2024-12-02,Cataract Surgery,150296.79,Wrong Diagnoses
+6bc57833-4145-47d9-ab1d-f8e542af74d6,85.0,Female,2023-10-12,2023-10-16,Pneumonia,55657.57,No Fraud
+f08739f0-ceb2-4bf2-a968-1c085c94780d,19.0,Male,2022-09-19,2022-09-26,Pregnancy,83899.34,No Fraud
+8d91eeb3-8ee3-4881-952e-19584d78ac9c,48.0,Female,2024-09-09,2024-09-19,Hypertension,186690.72,Wrong Diagnoses
+0b0dc58e-2b1a-434f-92b4-63e86ae47a88,86.0,Male,2022-05-21,2022-05-26,Pregnancy,115682.99,Wrong Diagnoses
+3f8fb67c-ee34-411b-af43-120c6c86afb2,60.0,Male,2024-01-05,2024-01-12,Migraine,45064.17,No Fraud
+37c430c1-5a7a-44ea-880b-cff40be12ed5,81.0,Female,2022-07-12,2022-07-13,Migraine,103874.01,No Fraud
+d9c6938b-8682-4d6b-bfa6-560213e8cb72,59.0,Female,2022-08-05,2022-08-14,Pregnancy,186748.87,No Fraud
+f82a24bd-cc9a-46f3-8b8a-f984e2410584,100.0,Female,2024-04-19,2024-04-26,Cataract Surgery,75312.19,No Fraud
+50a1cfe0-eba3-4373-b049-a17ca0c7d1cb,88.0,Female,2024-04-07,2024-04-17,Hypertension,99429.38,Wrong Diagnoses
+0e587f6f-0087-443a-8e43-f1bcd6701c92,57.0,Male,2023-06-23,2023-06-24,Diabetes,65299.6,No Fraud
+e78e713c-de41-4007-9071-1226e5136735,35.0,Female,2022-11-25,2022-11-29,Diabetes,143401.75,Wrong Diagnoses
+c748c54a-e7f2-43f8-b3fc-2887d872a97a,24.0,Male,2023-12-11,2023-12-19,Migraine,84821.19,No Fraud
+70587abe-240f-4005-8942-0ce95ca6e15d,29.0,Male,2024-09-08,2024-09-17,Pregnancy,173062.64,Wrong Diagnoses
+1299,45.22848664688427,Male,2024-02-29,2024-02-29,TOOTHACHE SEC. TO TRAUMA,290.0,No Fraud
+4b5d8757-0bfe-442e-9165-62a2e6ab0faa,96.0,Female,2024-01-29,2024-02-07,Diabetes,198452.34,Wrong Diagnoses
+150,45.22848664688427,Female,2024-07-03,,SYMPTOMATIC UTERINE FIBROID,6800.0,No Fraud
+2a68f06a-111e-4ea8-a70b-5291b09d7fd1,47.0,Female,2022-02-11,2022-02-18,Gastroenteritis,159318.45,No Fraud
+54b0df28-1cbd-4bba-817b-d1c7a5b67c74,85.0,Male,2022-06-15,2022-06-18,Cancer Treatment,72640.18,No Fraud
+81265a48-e2ad-4975-9c3e-35b0ed46ac88,88.0,Male,2023-01-05,2023-01-07,Cataract Surgery,186907.68,No Fraud
+a17b5f8e-0958-448a-b99c-397eedbd4d22,79.0,Female,2023-07-27,2023-07-27,Cesarean Section,133958.26,Wrong Diagnoses
+442fb2e1-d3e7-42db-aa97-9672511c0205,6.0,Male,2024-08-27,2024-09-06,Pregnancy,61918.25,Wrong Diagnoses
+68392ee5-398e-4ed0-b7e4-cbe0ff540a52,65.0,Female,2024-07-18,2024-07-19,Gastroenteritis,160132.86,Wrong Diagnoses
+b2ec9e53-6758-43f1-ab98-4d3e5812c2a8,51.0,Male,2022-01-16,2022-01-24,Pregnancy,115780.43,Wrong Diagnoses
+4063,86.0,Female,2024-10-26 00:00:00,2025-08-20 00:00:00,POST OP NEUROPRAXIA OTHERWISE STABLE POST <OP>,11629.0,No Fraud
+45365495-d4a4-4b80-96c8-a76945f938b4,15.0,Female,2023-02-03,2023-02-12,Diabetes,62738.02,Wrong Diagnoses
+4086,55.0,Female,2021-09-09 00:00:00,2022-04-25 00:00:00,BILATERAL RENAL STONE,1957.0,No Fraud
+4094,59.0,Male,2022-06-09 00:00:00,2023-04-19 00:00:00,HTN HYPERLIPIDAEMIA,11586.0,No Fraud
+70d1d756-ba8b-4ee3-93cf-f0e2cfc379c8,21.0,Female,2023-09-21,2023-09-23,Gastroenteritis,96555.47,No Fraud
+3a415531-3990-4cd5-88a3-7f4293af31ca,5.0,Female,2024-05-31,2024-05-31,Migraine,152988.94,No Fraud
+f2f5c26b-68f6-4114-b0dd-7acc4f7b87f2,60.0,Male,2024-07-01,2024-07-02,Pregnancy,103632.87,Wrong Diagnoses
+a2818fe5-5baf-417e-8c0f-3f0ad75c5c1d,5.0,Female,2024-09-26,2024-09-26,Hypertension,195609.84,Wrong Diagnoses
+2dd3cf94-2478-4d29-af68-72b3252faad2,64.0,Male,2023-06-02,2023-06-03,Gastroenteritis,185393.37,No Fraud
+d856a2af-b06f-45e4-ab63-07c0cb5b614c,65.0,Male,2023-12-16,2023-12-24,Gastroenteritis,199702.55,No Fraud
+a90a4afb-1a2a-4c11-80b2-075f611990a7,14.0,Male,2024-11-13,2024-11-16,Pregnancy,189059.33,Wrong Diagnoses
+1cfa8277-3a74-473b-a2f9-2f24ea55e53d,16.0,Male,2024-01-07,2024-01-10,Cataract Surgery,54537.81,No Fraud
+cf0d343c-7102-40c2-b9ba-c83f8673901a,97.0,Female,2024-05-21,2024-05-26,Pregnancy,183684.86,No Fraud
+c07eba09-ae58-4985-bdd9-061726f12774,17.0,Female,2023-03-14,2023-03-20,Diabetes,75219.1,No Fraud
+c168361d-b1b0-42e3-8eb7-c05c6e16af4b,91.0,Male,2022-07-18,2022-07-21,Pregnancy,162184.16,Wrong Diagnoses
+6fe82bc3-49dc-4653-9b20-3fe21e28f7c1,72.0,Male,2022-08-13,2022-08-22,Pregnancy,167725.31,Wrong Diagnoses
+9424a326-10ab-4b55-a9f7-80bb75d8a5ff,28.0,Male,2023-02-28,2023-02-28,Diabetes,109191.65,No Fraud
+6a8ca7fb-00ed-4018-8b5e-ad3ccbdb9b04,46.0,Female,2022-08-25,2022-09-03,Cesarean Section,28829.64,No Fraud
+b28fed97-30f7-478e-8767-94a110955dff,75.0,Male,2022-08-15,2022-08-17,Pregnancy,133335.42,Wrong Diagnoses
+53ba49b8-f823-473a-b1b3-758fd0839e74,91.0,Female,2022-03-05,2022-03-15,Cataract Surgery,128972.07,Wrong Diagnoses
+bf2ff20f-7c4a-4731-b859-906674d89dc4,22.0,Male,2023-05-05,2023-05-09,Cancer Treatment,56085.41,No Fraud
+beab1f35-7df9-4b58-be67-55531e87a2a4,82.0,Male,2022-11-08,2022-11-16,Diabetes,116114.15,No Fraud
+153cfafa-c499-4143-bdd3-069d48a93ab9,62.0,Male,2024-05-28,2024-05-30,Pregnancy,35419.55,Wrong Diagnoses
+0035e933-fd0d-4829-ba76-b89bd99575c3,66.0,Male,2024-11-11,2024-11-13,Gastroenteritis,47715.38,No Fraud
+5e28e752-87bc-4754-90e8-65c37eae426c,97.0,Female,2023-02-09,2023-02-16,Migraine,43292.54,No Fraud
+186,45.22848664688427,Male,2024-05-22,,ENDOMETRIAL CA,4000.0,No Fraud
+313f7bb8-28c3-46d2-a44a-26609800448e,5.0,Male,2022-06-06,2022-06-14,Pregnancy,34362.04,Wrong Diagnoses
+8a2d5cba-a803-412d-b06d-90a2d754ff29,54.0,Male,2024-09-26,2024-09-27,Pregnancy,177767.41,Wrong Diagnoses
+46a9bb7f-7ca0-4e73-a6f8-2ab1129dea3b,22.0,Female,2022-01-02,2022-01-12,Cataract Surgery,143538.9,No Fraud
+4090,54.0,Male,2020-09-14 00:00:00,2021-09-04 00:00:00,CERVICAL SPONDYLOSIS WITH RADICULOPATHY LUMBAR SPONDYLOSIS WITH RADICULOPATHY,10203.0,No Fraud
+5acba0ea-71dc-4047-b55f-026cd10ef81e,65.0,Female,2022-11-16,2022-11-23,Hypertension,140158.98,No Fraud
+e5704cc6-9817-481d-90e5-41fa344bded1,35.0,Male,2023-11-14,2023-11-23,Pregnancy,109686.02,No Fraud
+9ce17b8a-138f-4ee1-a6cc-74f425549d99,42.0,Male,2024-12-11,2024-12-17,Pregnancy,102533.34,Wrong Diagnoses
+0e354ba6-c922-43d5-93ce-5d0be6803030,64.0,Male,2023-02-27,2023-02-28,Pregnancy,70631.22,Wrong Diagnoses
+243f41eb-d64d-4cee-8059-e47c9fbb01de,100.0,Female,2022-07-16,2022-07-23,Cataract Surgery,38011.64,No Fraud
+511835f4-0d4e-44af-a155-56cc9f2cd211,56.0,Male,2024-04-28,2024-05-05,Hypertension,89869.83,No Fraud
+8e998521-4f79-4c88-a659-a318aec0a63f,19.0,Female,2023-08-15,2023-08-21,Pneumonia,43458.34,Wrong Diagnoses
+41ec3435-4f71-408a-863c-d78057b91a07,99.0,Male,2023-10-05,2023-10-10,Routine Check-up,21379.53,No Fraud
+2de9ed5f-85ef-4b94-901c-3b034fae791b,67.0,Female,2024-05-28,2024-06-06,Pregnancy,77247.13,Wrong Diagnoses
+f6ceea8b-81ba-4392-b841-6c58f7871d13,24.0,Female,2022-07-21,2022-07-26,Cataract Surgery,70128.56,No Fraud
+aa1728e4-f12e-4273-8aa4-6edeef0160a5,86.0,Male,2023-03-31,2023-04-09,Cataract Surgery,144947.1,No Fraud
+18a8efa9-31a3-45be-859b-7a28ca71bff2,20.0,Male,2023-07-11,2023-07-11,Pregnancy,74626.17,Wrong Diagnoses
+a0b1c3f8-1a53-4077-9ce3-bc3caaf287fe,95.0,Male,2024-02-19,2024-02-19,Pregnancy,43668.04,Wrong Diagnoses
+b7f9d08e-a318-4460-9b1b-4f27d377a926,19.0,Male,2023-11-09,2023-11-19,Pregnancy,111752.39,Wrong Diagnoses
+fee192c0-e4f9-410b-a317-c01bdd83ade8,14.0,Male,2024-11-04,2024-11-04,Pregnancy,36438.63,Wrong Diagnoses
+299,44.0,Female,2023-07-24,,HYPERTENSIVE URGENGY DM FATTY LIVER,5750.0,No Fraud
+a7fd4d5f-04b2-46b2-ab85-ea27e316f637,2.0,Male,2023-01-06,2023-01-11,Pneumonia,32919.65,No Fraud
+145,45.22848664688427,Female,2024-07-01,,IRREVERSIBLE PULPITIS DENTAL CARIES,12000.0,No Fraud
+c437e2d7-2580-4df4-b259-f7595947d512,80.0,Female,2022-11-21,2022-11-29,Migraine,112029.58,No Fraud
+f7ac9bb1-21bb-4539-b349-9cdef5b10db1,53.0,Male,2024-01-22,2024-01-22,Pregnancy,78224.12,Wrong Diagnoses
+dc7d78c3-5fb9-4013-b5c6-059c1156ebb0,35.0,Male,2023-10-12,2023-10-16,Pregnancy,25195.67,Wrong Diagnoses
+d3a5b490-ee66-43ea-9c4b-e105aaf42f43,83.0,Female,2024-08-14,2024-08-16,Routine Check-up,32914.63,Wrong Diagnoses
+fd3a7c03-7ba9-4248-8ca3-241483ccf4a4,93.0,Male,2024-12-17,2024-12-25,Pregnancy,59680.28,Wrong Diagnoses
+97b49c6a-af40-43fe-b637-ce9bf6d3bee4,47.0,Female,2023-07-14,2023-07-16,Pneumonia,91456.67,No Fraud
+43a0f29f-caa7-4d91-8c55-980bdea598a0,7.0,Female,2022-07-22,2022-07-24,Hypertension,95406.58,Wrong Diagnoses
+ae151a77-00a2-471e-9cb6-31b5a24c367b,51.0,Female,2024-07-13,2024-07-17,Cancer Treatment,184304.14,Wrong Diagnoses
+641cddbb-11e7-4d5b-bd08-27dfea337de1,52.0,Male,2024-01-15,2024-01-15,Pregnancy,110336.52,Wrong Diagnoses
+6ebd3c5a-39cf-4c26-ae14-a456b53ff930,79.0,Male,2024-01-17,2024-01-18,Pregnancy,182226.66,Wrong Diagnoses
+4c189f06-7de5-469e-84c2-e71ee908db1a,97.0,Male,2024-09-19,2024-09-19,Pregnancy,73359.33,Wrong Diagnoses
+2a23bede-6c7d-4278-a155-720a9fb37855,61.0,Female,2023-08-29,2023-09-01,Hypertension,88731.04,Wrong Diagnoses
+c09707b6-8aaf-4936-90c5-2d1683b04ae8,89.0,Male,2022-08-01,2022-08-11,Pregnancy,88044.49,Wrong Diagnoses
+4080,45.0,Male,2023-08-03 00:00:00,2024-11-07 00:00:00,LUMBALGIA R/O SPODYLOSIS,2341.0,No Fraud
+3725bc84-0eb7-44db-aaff-f75aceff306d,91.0,Female,2024-01-09,2024-01-19,Migraine,72092.92,No Fraud
+5fad5442-3467-44fd-bd3e-cdf7df043878,56.0,Female,2022-03-20,2022-03-20,Pneumonia,154840.8,No Fraud
+be8d8295-e8ec-4d47-b8d4-1c86b86569b9,93.0,Female,2023-01-16,2023-01-19,Cataract Surgery,138599.38,No Fraud
+9243ae82-229d-4051-981d-ac2468c0fd94,60.0,Male,2023-01-26,2023-01-27,Pregnancy,131834.38,Wrong Diagnoses
+51139a85-5925-4c40-bca8-30f92bad6c0e,14.0,Male,2024-01-13,2024-01-18,Pregnancy,181118.01,Wrong Diagnoses
+a0370437-c0b0-41f7-b4ff-b1654b12c6ef,60.0,Male,2024-08-19,2024-08-24,Pregnancy,181194.18,Wrong Diagnoses
+d04fa11a-7be3-4d8f-85a2-7968c570dcb6,44.0,Female,2024-02-21,2024-03-02,Migraine,178414.24,No Fraud
+d11990db-cc4e-413d-94ee-f6609613c022,5.0,Female,2023-05-04,2023-05-05,Migraine,161082.52,No Fraud
+3d515530-2bd1-4458-9526-06bf02ba6204,9.0,Male,2022-07-27,2022-07-27,Pregnancy,100992.72,Wrong Diagnoses
+fb09ff5b-3ff0-4398-81bc-b4a67aa07dd4,15.0,Female,2024-09-25,2024-09-28,Hypertension,98292.64,Wrong Diagnoses
+9e29928f-6169-43e4-819e-f6e2696d1b83,84.0,Male,2023-04-25,2023-05-03,Pregnancy,91839.67,Wrong Diagnoses
+22da81d6-582e-4f8b-885e-373c8e27a96d,54.0,Female,2022-01-20,2022-01-25,Pneumonia,144527.35,No Fraud
+bfbd4863-7203-43fd-869a-b3b6abdbc4ef,71.0,Female,2023-12-13,2023-12-14,Cataract Surgery,46509.29,No Fraud
+75c5af70-f2f8-4812-a9f2-ea1c2d11a593,53.0,Female,2023-10-22,2023-10-26,Migraine,194852.33,No Fraud
+fb6cb0d9-f557-421e-990c-4f71892c57f3,1.0,Male,2022-09-05,2022-09-13,Pregnancy,147382.57,No Fraud
+73378359-d276-4db8-ac9e-3f61a2bf19ab,96.0,Male,2023-10-27,2023-11-02,Cataract Surgery,57258.66,No Fraud
+fd6f5beb-58a4-480a-9bba-d05e008cbcd9,31.0,Male,2023-07-18,2023-07-25,Hypertension,80962.33,No Fraud
+5b3698f5-cfcc-4c83-9afd-057511bbd976,87.0,Female,2024-06-20,2024-06-21,Cataract Surgery,107780.07,No Fraud
+2567da5b-45b0-4acb-a4c9-d6034310e6ed,69.0,Female,2024-09-30,2024-10-07,Cancer Treatment,126475.18,No Fraud
+84a86df2-ae43-4595-a3d3-61e9a074f343,37.0,Male,2022-06-22,2022-06-28,Pregnancy,146443.69,Wrong Diagnoses
+50ce5728-f2bb-44a7-a528-e8f8d2e532c6,27.0,Male,2024-06-09,2024-06-16,Pregnancy,63296.32,Wrong Diagnoses
+275cb315-6646-4301-a2dc-570e7e1978da,8.0,Male,2023-04-13,2023-04-21,Pregnancy,75163.42,Wrong Diagnoses
+d33a2e35-af27-476f-9f42-74f8e4c0f31e,78.0,Male,2023-08-05,2023-08-05,Gastroenteritis,100581.22,No Fraud
+8f95afd3-b62a-4bb9-80fd-e2daa2f738e3,51.0,Male,2023-11-15,2023-11-15,Pregnancy,176289.05,Wrong Diagnoses
+d1712875-d391-4892-b55c-5e6b023befff,12.0,Male,2024-01-26,2024-02-03,Hypertension,111504.9,No Fraud
+e933bb70-257f-4751-b9c4-57e2611b4840,69.0,Male,2024-12-29,2024-12-29,Pregnancy,34214.45,Wrong Diagnoses
+dc885b3a-7bdd-44c6-96fe-c87644f0a737,90.0,Female,2022-08-08,2022-08-10,Cataract Surgery,156607.75,No Fraud
+abbd6947-9422-40c5-936b-8ebdd68eb45d,30.0,Male,2022-03-13,2022-03-23,Pregnancy,181709.56,Wrong Diagnoses
+5929be63-71a8-4468-b538-a656ab7b482a,35.0,Male,2024-01-29,2024-02-01,Diabetes,57531.89,No Fraud
+92c1e751-d972-4410-9e1d-a178c6196f83,48.0,Female,2024-04-08,2024-04-14,Cataract Surgery,120238.12,Wrong Diagnoses
+c5740e0f-50b4-421a-a6c8-ff0946bf6439,2.0,Male,2022-09-28,2022-10-01,Pregnancy,168956.82,No Fraud
+8a95069e-c747-4d15-9ee5-8ff0446a6200,53.0,Male,2024-09-25,2024-09-25,Pregnancy,175162.61,Wrong Diagnoses
+4cc872a6-6cc8-4cf6-8ad5-0301d0ee9266,84.0,Male,2024-10-12,2024-10-19,Pregnancy,116857.04,Wrong Diagnoses
+89f9fabb-80ed-46fc-a0ec-2bcb497d1e24,75.0,Male,2024-06-30,2024-07-04,Pregnancy,111904.54,Wrong Diagnoses
+b22ddd68-e470-48dd-9fd1-a2a91cfbdc34,3.0,Female,2023-10-25,2023-10-25,Hypertension,168282.27,Wrong Diagnoses
+bed47da8-63ed-48b0-86b2-67e882cb821b,20.0,Female,2024-04-11,2024-04-11,Cataract Surgery,130454.82,Wrong Diagnoses
+7a521fda-ba04-4658-80fd-6e77b5569106,96.0,Female,2024-05-21,2024-05-23,Cesarean Section,92994.54,Wrong Diagnoses
+91c2ccf9-dabf-488e-b422-f61a4d595450,97.0,Female,2022-12-24,2023-01-02,Gastroenteritis,67722.19,Wrong Diagnoses
+9885a2b2-42a8-4a23-aad3-e05d35445ad3,60.0,Female,2022-12-03,2022-12-06,Pneumonia,160494.59,No Fraud
+0aa911bb-826c-4c2f-bf2b-3039e3b18772,33.0,Female,2023-05-09,2023-05-17,Hypertension,70176.78,No Fraud
+e57beafa-26c8-4a4f-87eb-ce774d3a80de,47.0,Male,2024-01-26,2024-02-02,Pregnancy,155912.28,Wrong Diagnoses
+57c6bdc3-bca9-460f-9b8e-e51295aaf30a,37.0,Female,2023-11-28,2023-12-04,Cesarean Section,133343.05,Wrong Diagnoses
+ce485370-1f6d-43a8-afad-f10d4d91f9e6,75.0,Male,2022-04-17,2022-04-18,Pregnancy,178419.2,Wrong Diagnoses
+4081,9.0,Male,2020-12-02 00:00:00,2025-08-09 00:00:00,PREVIOUS WKS C/S AT IN ACTIVES PHASE LABOUR,16225.0,No Fraud
+af248f9f-16a2-479f-ade5-e281b6481bb4,31.0,Female,2023-10-31,2023-11-03,Pneumonia,115338.75,No Fraud
+b5891cd8-07bd-4609-81fb-703e7674dd32,83.0,Female,2024-09-07,2024-09-13,Hypertension,180246.45,No Fraud
+a75a7907-17ef-4461-b76c-626982029b62,3.0,Female,2023-02-18,2023-02-26,Diabetes,105104.8,No Fraud
+57a2c4ed-09b0-49ec-b9ec-17f6cac130b7,93.0,Female,2024-10-27,2024-10-31,Cataract Surgery,165588.74,Wrong Diagnoses
+1da956b0-c15d-4605-9f62-dd8706be8034,29.0,Male,2023-04-23,2023-04-26,Cesarean Section,127399.32,No Fraud
+1e1316b1-0b09-46b7-a3f2-92daa788cf69,58.0,Male,2022-12-21,2022-12-21,Cesarean Section,20742.89,No Fraud
+a989acaf-f9f9-48ed-b5e4-0e7092479778,46.0,Female,2024-07-10,2024-07-14,Gastroenteritis,85133.56,No Fraud
+49c5e3d5-d1e7-45e8-bacc-1910d44fc34a,60.0,Male,2024-03-05,2024-03-08,Pregnancy,196247.28,Wrong Diagnoses
+35b5201d-1aac-46ee-be8e-4935d291071e,12.0,Male,2023-04-10,2023-04-15,Pregnancy,189296.71,Wrong Diagnoses
+29439d10-4a25-49d8-bd94-0d509f0642cd,76.0,Female,2022-07-15,2022-07-22,Diabetes,31506.17,No Fraud
+4103,90.0,Female,2021-01-08 00:00:00,2025-09-22 00:00:00,AMELOBLASTOMA OF THE RGT JAW[WORKED UP FOR MANDIBULECTOMY SURGERY],3042.0,No Fraud
+65e63186-d5ef-43a9-9ae3-389f6df06259,35.0,Female,2023-04-21,2023-04-26,Migraine,139422.5,No Fraud
+67e68242-7e43-4076-8d12-a0650c0c85bc,43.0,Female,2024-12-15,2024-12-23,Pneumonia,73511.7,Wrong Diagnoses
+c6af6078-a36d-4117-9475-50cb23701ba3,20.0,Female,2024-10-16,2024-10-24,Cataract Surgery,126861.51,Wrong Diagnoses
+752e343d-6d7f-4248-892f-116646e3c2ed,22.0,Female,2023-06-02,2023-06-06,Migraine,90363.08,Wrong Diagnoses
+fd672a6e-758f-495e-8f10-79d89decb115,92.0,Male,2022-09-16,2022-09-18,Gastroenteritis,173256.49,No Fraud
+e8d732bf-8e03-48ff-ae8b-f80c55e884ed,52.0,Male,2022-10-17,2022-10-21,Pregnancy,24504.52,Wrong Diagnoses
+9a9a6e06-066f-410f-b690-d2b2ae380c1d,87.0,Female,2024-07-01,2024-07-07,Cancer Treatment,108120.96,Wrong Diagnoses
+e3e4ec9d-54aa-4330-b6cd-42c6d583f1db,16.0,Female,2022-09-08,2022-09-17,Diabetes,189355.44,No Fraud
+8c3694ad-3fc3-4b12-a6d7-975ade888f10,42.0,Female,2022-10-29,2022-11-07,Hypertension,35241.71,No Fraud
+278,45.22848664688427,Male,2023-09-11,2025-01-04,FETAL VIABILITY,5750.0,No Fraud
+1895,45.22848664688427,Female,2023-11-24,2023-11-24,HTN,660.0,No Fraud
+347,34.0,Male,2023-05-22,2025-09-06,HYPERTENSION,15000.0,No Fraud
+07deea4a-d70d-4fcc-8e13-5dc435a4e8ab,8.0,Female,2022-08-28,2022-09-05,Hypertension,145485.44,Wrong Diagnoses
+509b71c3-7899-4ef0-bed4-92fccbf5fca2,93.0,Female,2023-06-01,2023-06-01,Diabetes,45299.53,No Fraud
+4115,75.0,Female,2021-04-04 00:00:00,2023-07-18 00:00:00,SWELLING OF THE RGT WRIST,19907.0,No Fraud
+4fa2d5ff-2619-436d-8816-cbbe6ae6490d,2.0,Male,2023-02-09,2023-02-12,Diabetes,39288.21,No Fraud
+4003,25.0,Male,2022-03-02 00:00:00,2024-04-27 00:00:00,VOC IN A KNOWN SCA PT,7353.0,No Fraud
+87767b25-86c5-4e0c-a0be-9e6275073b25,69.0,Male,2023-06-22,2023-06-29,Pregnancy,166523.01,Wrong Diagnoses
+f15e10be-c5f3-4f88-816c-b62620c6de82,5.0,Male,2022-02-08,2022-02-10,Pregnancy,110135.95,Wrong Diagnoses
+c20989ce-d288-4aee-a495-6ebe0ded3c7e,70.0,Male,2023-06-21,2023-06-29,Pregnancy,179558.49,Wrong Diagnoses
+5e0a5021-f1b7-4f90-a851-201a30ba69eb,42.0,Female,2023-11-14,2023-11-21,Cancer Treatment,129563.98,No Fraud
+728fb424-4821-47ca-ae7c-a3270599f5c8,23.0,Male,2024-07-29,2024-08-08,Pregnancy,85949.01,Wrong Diagnoses
+4134,26.0,Female,2021-10-18 00:00:00,2025-06-07 00:00:00,MYOPIA / REFRACTIVE ERROR,5434.0,No Fraud
+1d825692-10ee-4f2c-8e41-dd99867ecc7a,75.0,Female,2024-12-26,2025-01-02,Pneumonia,40490.91,Wrong Diagnoses
+85fbf43b-9e55-4675-9d81-adcd4ecb652a,68.0,Male,2023-07-14,2023-07-22,Pregnancy,52669.57,Wrong Diagnoses
+4b9d5200-56df-4444-9d27-335fb785da29,75.0,Male,2023-04-28,2023-05-06,Pregnancy,143522.49,Wrong Diagnoses
+5fe3e0c2-e09b-4bf8-8bc7-ba4f89b58552,48.0,Male,2022-06-20,2022-06-21,Cesarean Section,172561.66,No Fraud
+445e99d2-b3c7-4ebb-9cd4-b7908b6ce45e,48.0,Male,2022-05-18,2022-05-21,Gastroenteritis,165078.66,No Fraud
+abc319b5-b9f2-4b5f-ad83-82eee34dafca,10.0,Female,2022-10-31,2022-11-10,Pneumonia,73998.46,Wrong Diagnoses
+3bcb99b4-62bf-4772-b15c-2249c6b49cd7,30.0,Female,2022-07-05,2022-07-06,Hypertension,67867.12,Wrong Diagnoses
+c5a89999-931e-493f-8e82-cc2ffe088495,76.0,Male,2024-02-20,2024-02-28,Pregnancy,46176.11,Wrong Diagnoses
+f11b2643-c4f4-4641-9240-48464d905410,33.0,Female,2023-06-07,2023-06-16,Pneumonia,190991.9,No Fraud
+6e6eea30-5938-45e1-8c21-69583ea923be,1.0,Male,2024-12-31,2025-01-06,Pregnancy,41275.43,Wrong Diagnoses
+56487d2d-4d12-4557-b231-6cb0ea85a426,85.0,Female,2022-04-14,2022-04-21,Pregnancy,136488.72,No Fraud
+c68af33d-b973-49a7-a9c3-578c9d645724,99.0,Female,2024-01-25,2024-01-29,Diabetes,86579.95,Wrong Diagnoses
+b7071192-af78-488e-a712-2195a7fd463e,65.0,Male,2024-07-31,2024-07-31,Pregnancy,22007.83,Wrong Diagnoses
+f70c3f06-2379-4f05-9657-314325c61e92,97.0,Male,2023-08-19,2023-08-27,Hypertension,97378.9,No Fraud
+492b682f-dcd2-4c19-a680-c8f2ca39d28d,1.0,Female,2023-05-23,2023-05-27,Hypertension,65806.64,Wrong Diagnoses
+4cc12bd9-c6a7-4ba2-9321-222d825e209b,78.0,Female,2022-08-28,2022-09-02,Migraine,74320.26,No Fraud
+4017,77.0,Male,2023-05-06 00:00:00,2024-02-09 00:00:00,GENERALIZED CHRONIC MARGINAL GINGIVITIS,3097.0,No Fraud
+b20df762-a26f-4e74-bf07-e080f4793c3b,68.0,Female,2024-05-14,2024-05-19,Cataract Surgery,121020.1,No Fraud
+f71ab171-2105-4864-83cf-daf1409011c2,97.0,Female,2023-01-01,2023-01-11,Routine Check-up,108023.13,Wrong Diagnoses
+a5d16b19-5857-43c1-8078-92e876a32b4c,53.0,Female,2023-10-30,2023-11-01,Cataract Surgery,38041.09,No Fraud
+0f033b40-2ff6-4cca-ac74-7b1df52b6b35,65.0,Male,2024-06-17,2024-06-19,Cancer Treatment,129563.76,No Fraud
+16de2b84-da64-4b5e-aa14-e82c2b3f1ee3,13.0,Female,2023-04-26,2023-04-30,Hypertension,98839.59,No Fraud
+6e5254ca-c727-4736-bbbe-864663888382,98.0,Male,2024-12-02,2024-12-08,Cancer Treatment,129976.58,No Fraud
+4083,5.0,Female,2020-07-01 00:00:00,2024-04-12 00:00:00,CHEST PAIN R/O ISCHEMIC HEART DXS,15147.0,No Fraud
+b73c6cdb-abd0-454b-b8bb-68e28071793d,14.0,Female,2023-08-03,2023-08-11,Routine Check-up,124137.53,Wrong Diagnoses
+c1779e5f-a7b9-4259-ad06-68af45e11695,35.0,Male,2023-03-11,2023-03-19,Pregnancy,34510.77,Wrong Diagnoses
+36bed503-3ac1-4c6e-b27b-76cda3ef2e4f,41.0,Female,2023-06-20,2023-06-27,Cancer Treatment,197593.42,No Fraud
+191,55.0,Female,2024-04-15,2025-04-01,PID R/O SPONDOLITHESIS,8400.0,No Fraud
+9c0cd494-fc86-41cf-922c-6a589a667658,4.0,Male,2023-04-18,2023-04-24,Routine Check-up,160139.54,No Fraud
+c71c0b5e-2652-4578-af19-899be38684d3,54.0,Male,2023-09-02,2023-09-02,Pregnancy,113630.58,No Fraud
+39f7e26b-783b-4c36-b3ce-0c270624801b,96.0,Male,2022-12-03,2022-12-10,Pregnancy,189960.26,No Fraud
+e0a16bd9-bcb7-48d6-999e-058c236235d0,36.0,Male,2023-01-25,2023-01-26,Cataract Surgery,180654.19,No Fraud
+4109,92.0,Male,2024-11-11 00:00:00,2020-04-20 00:00:00,PREVIUOS SCAR,2439.0,No Fraud
+4ccd3c75-a5b2-4586-b0d7-379b97ab32e9,10.0,Female,2024-04-06,2024-04-16,Pregnancy,151262.39,Wrong Diagnoses
+89b04baf-56c1-4a03-85fc-63a77231eade,89.0,Male,2022-10-28,2022-11-07,Pregnancy,157109.76,Wrong Diagnoses
+4144,12.0,Male,2020-10-11 00:00:00,2024-09-16 00:00:00,SYURGICAL SITE INFECTION,14755.0,No Fraud
+05978399-3a80-4a10-a20e-011c05b63557,36.0,Male,2023-09-14,2023-09-19,Pregnancy,157992.08,Wrong Diagnoses
+314,45.22848664688427,Female,2023-07-09,2025-07-05,DIABETES,3186.0,No Fraud
+e4cb3549-5285-4074-baae-eb3974eb7018,72.0,Female,2023-05-30,2023-06-01,Pregnancy,51898.5,Wrong Diagnoses
+9bedc5ea-27f0-40f4-a1f2-1c2d44f8894c,46.0,Female,2024-12-18,2024-12-22,Pregnancy,64606.24,Wrong Diagnoses
+3489,45.22848664688427,Female,2023-04-03,2023-04-03,DM,840.0,No Fraud
+0a489f56-81cd-458c-a809-563cb63b3f58,30.0,Male,2023-06-05,2023-06-05,Migraine,178638.48,No Fraud
+56bb8c0b-4c5c-4995-94f8-b24e2ddb2855,31.0,Male,2022-09-02,2022-09-03,Pregnancy,155624.98,Wrong Diagnoses
+4102,87.0,Female,2021-06-05 00:00:00,2022-08-06 00:00:00,SYMPTOMATIC HUGE UTERINE FIBROID MENORRHAGIA,17522.0,No Fraud
+2487f8ac-023a-44ae-bc40-0e8f040687fd,79.0,Male,2022-11-25,2022-11-26,Diabetes,23478.97,No Fraud
+def84a47-40fe-4f54-8536-5b6802de7709,73.0,Male,2023-01-05,2023-01-15,Pneumonia,170565.17,No Fraud
+daa225d0-88e9-425b-b92f-d4356c883be0,71.0,Female,2023-04-12,2023-04-15,Routine Check-up,158406.1,Wrong Diagnoses
+38784e99-e064-4058-a37c-261687325af6,7.0,Male,2023-03-29,2023-04-01,Routine Check-up,84654.81,No Fraud
+9c83871b-6d0b-4fcd-96e7-bdfe6f6cd905,96.0,Male,2023-01-29,2023-01-29,Cancer Treatment,53902.44,No Fraud
+36e447e6-a4f7-4310-90f3-061c3178635d,80.0,Female,2024-10-03,2024-10-12,Diabetes,89307.42,Wrong Diagnoses
+4028,44.0,Female,2025-11-22 00:00:00,2022-04-02 00:00:00,HYPERTHYRIODISM,9856.0,No Fraud
+e0735f6a-8a7c-40a3-8e4e-f478b1f1d296,44.0,Male,2024-10-05,2024-10-11,Migraine,92918.49,No Fraud
+d2f491ed-67fe-4d3e-b502-b02848efdb20,58.0,Male,2022-05-15,2022-05-20,Pregnancy,71912.98,Wrong Diagnoses
+d93f7a6b-997a-4c06-b04b-56f20d96d913,16.0,Female,2024-12-29,2024-12-30,Pneumonia,101593.95,No Fraud
+57d0456a-41c0-4f86-9799-a2b20b736c3a,96.0,Male,2022-01-14,2022-01-14,Diabetes,33379.56,No Fraud
+9b1152f1-b50a-40f7-b284-08c3fa05e452,4.0,Female,2024-09-06,2024-09-14,Pregnancy,73246.41,No Fraud
+cf46e787-6e7f-4d70-a8bc-2a3e0af93c46,62.0,Female,2024-04-19,2024-04-20,Migraine,33723.06,No Fraud
+850022a4-346e-49fc-b7d3-d2012a7d36d5,57.0,Male,2024-12-13,2024-12-20,Pregnancy,134035.35,Wrong Diagnoses
+788c5302-b759-4c93-a355-395f42d50b6d,95.0,Female,2023-10-31,2023-11-08,Cataract Surgery,55249.96,No Fraud
+a4770cad-c76d-4af3-b5fd-da1a57064224,55.0,Female,2022-03-27,2022-04-06,Routine Check-up,183789.77,No Fraud
+9533aba7-61fa-4f75-969e-a8d916c21714,73.0,Male,2022-01-21,2022-01-30,Pregnancy,106740.36,Wrong Diagnoses
+f79d7104-781c-444b-b7f3-30b644a4a909,51.0,Male,2024-08-10,2024-08-11,Cesarean Section,137569.3,No Fraud
+2bab6fee-716a-4dfb-8fd9-0085c21e85d7,27.0,Male,2022-08-27,2022-08-30,Routine Check-up,128246.17,No Fraud
+a2196b2c-37bf-4325-8e0d-a86608bc3bed,61.0,Male,2023-07-20,2023-07-21,Pregnancy,133881.87,Wrong Diagnoses
+a1a4348c-8c76-417f-b92d-67e884b51d40,71.0,Female,2024-12-29,2025-01-05,Migraine,39752.52,No Fraud
+600a290a-10cd-4caa-8334-b1d469bd7a06,19.0,Male,2022-01-12,2022-01-17,Gastroenteritis,58797.79,No Fraud
+b4e765eb-cf1d-4bd6-bab5-d9e10b5ce021,33.0,Male,2022-09-23,2022-10-03,Pregnancy,61900.34,Wrong Diagnoses
+18a19bce-4d77-41dc-90d2-684e5985a79c,78.0,Male,2023-08-22,2023-08-24,Diabetes,48603.47,No Fraud
+da594c3b-57c1-4410-a69b-5201b93357d6,62.0,Male,2024-10-24,2024-10-27,Pneumonia,29535.12,No Fraud
+49702eea-916a-4648-ad6a-e7dd5147b81a,94.0,Male,2024-06-08,2024-06-08,Pregnancy,82061.65,Wrong Diagnoses
+a146bf23-7208-47f7-a656-fde7aaca34b7,86.0,Male,2024-03-18,2024-03-25,Pregnancy,141648.13,Wrong Diagnoses
+c04cb369-3a76-45d0-aebf-85d5b339c1c2,81.0,Male,2022-12-23,2022-12-31,Pregnancy,32635.39,Wrong Diagnoses
+4108,27.0,Male,2025-07-27 00:00:00,2020-11-11 00:00:00,FIBRIOD NODULES,7670.0,No Fraud
+69dc3413-3b2c-493c-9dca-72eea5891b57,81.0,Male,2024-08-18,2024-08-28,Pregnancy,123635.02,Wrong Diagnoses
+527c17ee-86ad-4e4c-bc87-d3a5181e99fc,34.0,Female,2023-02-14,2023-02-18,Pneumonia,32093.34,Wrong Diagnoses
+91eb4cba-958c-4b91-ab55-6589a57dbcca,64.0,Female,2024-09-04,2024-09-13,Cancer Treatment,34613.8,No Fraud
+fcaf5a3e-ff0e-460b-b979-550c0c93a193,98.0,Female,2024-07-08,2024-07-10,Cesarean Section,131086.1,No Fraud
+1ee4c520-a7e9-4270-8742-337d4a670e83,98.0,Female,2023-12-06,2023-12-09,Cesarean Section,35260.51,Wrong Diagnoses
+b8132246-415a-4221-a6c0-b32a70362745,15.0,Male,2023-11-28,2023-12-07,Pneumonia,115932.4,No Fraud
+9d145b6e-f36f-40b8-99d7-72044bd6d604,65.0,Male,2024-05-03,2024-05-04,Diabetes,121913.48,No Fraud
+07a73b7e-12a6-4db2-b8ea-f4afe2826505,15.0,Female,2024-10-22,2024-10-25,Gastroenteritis,107883.4,No Fraud
+37149780-9984-4162-b182-92b22837cb1b,14.0,Male,2023-03-25,2023-03-30,Pregnancy,150763.11,Wrong Diagnoses
+5b924894-ad0e-4ea4-a45d-7ed4a04b78d5,65.0,Male,2024-09-16,2024-09-26,Pregnancy,41579.46,Wrong Diagnoses
+96280199-ea1a-4785-8446-9c93504059ac,4.0,Female,2022-01-15,2022-01-21,Hypertension,125840.08,Wrong Diagnoses
+db63e436-6479-49d9-9a49-22ea423983b1,80.0,Male,2023-10-21,2023-10-26,Hypertension,105598.29,No Fraud
+608f8d6d-5194-4448-9018-7ad0f8a4a790,3.0,Female,2024-05-11,2024-05-19,Hypertension,61376.53,Wrong Diagnoses
+28f4cbdc-a281-4221-95fb-a7a4335fe8d2,54.0,Female,2024-10-03,2024-10-06,Migraine,176618.98,No Fraud
+60d816bc-ffcb-4cd0-90de-dfce19a58355,73.0,Female,2023-01-15,2023-01-16,Pregnancy,80252.36,Wrong Diagnoses
+01883045-7a33-48d7-89e9-ec4b7a2dfe80,29.0,Female,2024-10-10,2024-10-17,Cancer Treatment,22232.73,No Fraud
+a7e00877-f2df-44cb-becd-4e46dd4b20d8,97.0,Male,2024-06-18,2024-06-24,Hypertension,187210.41,No Fraud
+8717cf4e-a59a-49eb-82e9-57d3d730927f,21.0,Male,2023-06-10,2023-06-10,Pregnancy,36042.4,No Fraud
+3cc8290c-ea35-4f0e-acac-9cea03bfd184,73.0,Female,2023-07-19,2023-07-26,Cancer Treatment,104344.36,Wrong Diagnoses
+3ef9e2ca-7156-48ec-a32f-acb308d06700,100.0,Female,2022-05-28,2022-05-28,Cesarean Section,195415.86,Wrong Diagnoses
+697f582b-3c62-4bf4-807c-1a0850d30cd0,64.0,Male,2023-10-22,2023-10-30,Pregnancy,114304.1,Wrong Diagnoses
+700af155-7325-43df-842b-4c5f73e10894,31.0,Female,2024-04-25,2024-04-26,Diabetes,124132.12,Wrong Diagnoses
+3883faea-ccff-429c-a263-4687ae7b3cc5,51.0,Male,2023-07-08,2023-07-15,Pregnancy,100927.8,Wrong Diagnoses
+dfb92569-b2ac-46aa-8949-301249733b0e,32.0,Female,2023-05-30,2023-06-07,Pneumonia,30467.55,Wrong Diagnoses
+2324,45.22848664688427,Female,2024-04-17,2024-04-17,HTN,660.0,No Fraud
+815a3e2e-ee16-42ac-b420-4a11627c3820,25.0,Female,2024-12-01,2024-12-01,Routine Check-up,192088.49,Wrong Diagnoses
+6376e4ac-211b-468a-b345-ab5c681ddddf,20.0,Male,2024-11-01,2024-11-06,Gastroenteritis,46453.29,No Fraud
+33f48654-7db0-4b62-aaf7-20e41e8a811c,40.0,Male,2024-01-06,2024-01-14,Pregnancy,71598.9,Wrong Diagnoses
+4076,74.0,Female,2020-04-14 00:00:00,2023-05-01 00:00:00,FRACTURE OF THE RT HEAD OF FEMUR TO FALL,13221.0,No Fraud
+082786e8-a1f0-434a-850a-31df21b7fe35,69.0,Male,2024-06-07,2024-06-15,Migraine,170056.99,No Fraud
+7fa4acbc-f2b3-4500-9867-acfb75be2910,49.0,Female,2023-08-18,2023-08-18,Cataract Surgery,157453.74,No Fraud
+b1e8e2f7-3878-49af-a3b4-84883cc523cb,34.0,Male,2023-08-25,2023-09-02,Pregnancy,177103.34,No Fraud
+75,45.22848664688427,Female,2024-06-18,2024-06-18,AMENORHEA CAUSE R/O CYESIS,700.0,No Fraud
+c72427d8-6d9e-48df-8705-5bb2bbc57bc2,49.0,Male,2023-11-09,2023-11-09,Pregnancy,38992.46,Wrong Diagnoses
+caeef5fd-dbfa-4fff-9357-6a97a6aa4302,80.0,Female,2023-12-09,2023-12-19,Gastroenteritis,108610.01,Wrong Diagnoses
+9fb6e9eb-27ad-4606-83c8-2d28ccbfabc8,8.0,Female,2023-09-02,2023-09-10,Pregnancy,69055.61,No Fraud
+69d6119d-1dcd-4c0e-96fa-2e858a340e58,44.0,Female,2022-07-26,2022-07-27,Gastroenteritis,192596.94,Wrong Diagnoses
+92aeb3d3-3e2a-46d7-8020-a0894d09fb56,30.0,Male,2023-04-30,2023-05-05,Pregnancy,40311.3,Wrong Diagnoses
+f6e15278-c1c8-43ee-b2aa-8575433f853f,96.0,Male,2024-08-09,2024-08-15,Pregnancy,168076.63,Wrong Diagnoses
+7df47e18-2bd1-49b0-a0a0-da4a27ad1038,37.0,Female,2024-04-17,2024-04-26,Cataract Surgery,148938.21,No Fraud
+6e943fcd-869a-4886-a3a9-2a6f55af3411,60.0,Female,2022-03-15,2022-03-24,Gastroenteritis,184639.72,No Fraud
+4e365835-270e-4bc6-bce1-d47606602e23,29.0,Male,2023-08-12,2023-08-18,Routine Check-up,113489.45,No Fraud
+12e394b8-712b-4b21-830b-384834d5c769,60.0,Female,2022-02-07,2022-02-17,Routine Check-up,155167.11,No Fraud
+39824a8c-246b-459e-84e5-772b339f2507,57.0,Female,2023-04-09,2023-04-09,Cancer Treatment,175767.38,Wrong Diagnoses
+004cb7cc-8266-41ae-95c2-c32c56fd85f1,35.0,Female,2024-11-08,2024-11-12,Routine Check-up,132034.46,No Fraud
+d0bd8c11-9c50-4b63-87f8-9a86aacb8a88,43.0,Male,2022-07-13,2022-07-15,Pregnancy,88285.81,Wrong Diagnoses
+ca30e3bd-7466-4351-aa39-10f9faf71844,2.0,Male,2023-01-23,2023-01-29,Cataract Surgery,197623.39,No Fraud
+8b3ad016-c10b-442b-bb50-ab16d085dbe7,24.0,Male,2024-06-18,2024-06-27,Routine Check-up,171460.56,No Fraud
+93573e07-38aa-4c02-9eaa-352a83e2f94f,88.0,Male,2022-05-03,2022-05-06,Pregnancy,32023.47,Wrong Diagnoses
+061120af-87da-46f4-893b-777c37222cec,20.0,Male,2023-06-06,2023-06-07,Gastroenteritis,154656.09,No Fraud
+e3d74057-6baa-40db-8dc8-183c89b666aa,29.0,Female,2022-12-21,2022-12-28,Pregnancy,91911.17,No Fraud
+caa9ba6c-87e8-4721-92db-2d99e6fc47fb,43.0,Male,2023-06-15,2023-06-19,Diabetes,26609.85,No Fraud
+dd187f46-c28b-437e-acd4-5c791f6add9a,31.0,Female,2022-10-15,2022-10-15,Pregnancy,83961.15,No Fraud
+19215fba-4c7d-4cd1-8fd5-ab7c4396ffe3,54.0,Male,2024-01-02,2024-01-06,Pregnancy,49651.56,Wrong Diagnoses
+8fdfa7a0-2584-4dc9-b928-44ea927dbcb1,89.0,Female,2023-04-04,2023-04-13,Diabetes,117202.14,No Fraud
+9d7256c0-b0df-4306-b018-c3d3f5492ca1,72.0,Male,2024-03-18,2024-03-22,Cataract Surgery,66213.49,No Fraud
+8fb822f9-742a-42ff-b243-ee3cfae9e495,63.0,Female,2024-12-17,2024-12-24,Pneumonia,70849.79,Wrong Diagnoses
+dbbe6616-70df-4015-840d-59ca2e834b7f,80.0,Male,2024-05-21,2024-05-21,Hypertension,199880.32,No Fraud
+a95fdf84-d79b-437a-ac56-7e5e262e37eb,83.0,Female,2022-07-03,2022-07-11,Cancer Treatment,150870.22,Wrong Diagnoses
+410c2070-d095-4b1b-8c38-3a7354ee4cef,94.0,Female,2022-12-18,2022-12-22,Cancer Treatment,121179.96,Wrong Diagnoses
+a2bdac1d-74ad-4f8a-8fd7-12a994fa3af4,44.0,Male,2024-08-11,2024-08-16,Pregnancy,124208.58,No Fraud
+345eb24e-3765-4ecd-973c-6edcf50027ca,38.0,Female,2024-07-31,2024-08-09,Pregnancy,89807.8,Wrong Diagnoses
+788fa636-6b05-438f-b6a1-a91a21c2c778,49.0,Male,2022-10-27,2022-10-30,Pneumonia,156520.27,No Fraud
+d6f7eebc-8f10-4770-b818-ee15a9fe341a,8.0,Female,2023-03-03,2023-03-09,Migraine,175922.05,No Fraud
+2c15aff3-086a-4ed9-a8c9-c1ef22b230a0,10.0,Male,2024-06-15,2024-06-23,Pregnancy,45604.89,Wrong Diagnoses
+cf4d805c-42ea-45da-9fdf-10f6def9389e,76.0,Male,2024-03-26,2024-04-01,Pregnancy,27596.08,Wrong Diagnoses
+4148,48.0,Female,2024-02-14 00:00:00,2022-08-22 00:00:00,RICKET OF BOTH LEGS,3727.0,No Fraud
+41204042-2941-4710-8afd-1f34895f6b52,40.0,Male,2022-05-10,2022-05-11,Cancer Treatment,92162.49,No Fraud
+426589c4-a7a5-4fd7-94b5-4adb0dcfb7a3,87.0,Female,2023-10-07,2023-10-17,Hypertension,97711.91,Wrong Diagnoses
+258,45.22848664688427,Female,2024-01-16,2025-12-03,HHDX,3600.0,No Fraud
+a512e333-71a8-41e5-8cbb-91eca65d976c,86.0,Female,2022-09-10,2022-09-15,Gastroenteritis,176225.29,Wrong Diagnoses
+af6a8a83-2c77-41cf-af18-2e364819f029,63.0,Female,2022-06-16,2022-06-21,Gastroenteritis,78206.88,No Fraud
+aa5afe48-5822-47b1-a1d4-642e988830b3,24.0,Male,2023-02-27,2023-03-04,Pregnancy,50171.88,Wrong Diagnoses
+8a447f5d-623b-4d0b-8811-257f7f9d4b77,8.0,Male,2024-02-04,2024-02-05,Pregnancy,72064.06,Wrong Diagnoses
+5fb0ee23-93bf-4754-a54a-bf40aed38a65,71.0,Female,2023-01-06,2023-01-10,Routine Check-up,121535.29,Wrong Diagnoses
+ac8ee4cf-8960-46d4-9a56-77d68b18eeca,83.0,Male,2022-09-24,2022-10-03,Diabetes,59106.33,No Fraud
+3a72fd29-2016-4726-9d08-690c9e6cdff0,82.0,Male,2023-02-07,2023-02-14,Pregnancy,133635.36,No Fraud
+35,45.22848664688427,Male,2025-03-19,2025-03-19,PERIONDONTITIS,7000.0,No Fraud
+39b5e8c2-f66c-4b6e-a51b-c40c66d7f25c,59.0,Female,2023-02-18,2023-02-19,Hypertension,194793.04,No Fraud
+2f33e5d6-3907-4010-947c-57ada4805a61,27.0,Male,2022-04-02,2022-04-05,Hypertension,147574.05,No Fraud
+1e64b40b-c19a-42e1-ab96-35fffc8103f5,64.0,Male,2023-06-12,2023-06-15,Pregnancy,174652.8,Wrong Diagnoses
+83687666-5249-439d-ab33-f54aa135520d,12.0,Female,2023-06-29,2023-06-29,Diabetes,39448.02,Wrong Diagnoses
+1d48636a-0201-48a0-bfcc-3873623dff72,74.0,Male,2024-06-09,2024-06-18,Pregnancy,77042.74,Wrong Diagnoses
+9e90127c-f490-4ecf-95ae-a67e049567ad,11.0,Male,2022-05-25,2022-05-25,Pregnancy,180043.03,Wrong Diagnoses
+c6dcf8bb-92ca-4f3b-86af-e22d470f6c1d,6.0,Male,2022-04-23,2022-05-02,Routine Check-up,53471.62,No Fraud
+4a4f2c72-e89b-4d66-9a68-ad17317c12b8,10.0,Male,2022-07-11,2022-07-13,Diabetes,88512.19,No Fraud
+45cccde5-282e-4447-89aa-1eb51a890a46,39.0,Male,2023-06-08,2023-06-14,Migraine,68152.13,No Fraud
+19ac8a9e-fcfd-40ae-9bde-3389a1a83b12,26.0,Female,2023-08-07,2023-08-09,Diabetes,29040.68,No Fraud
+eedbb768-6d23-4a95-adc2-6bff30315601,69.0,Male,2023-04-28,2023-05-02,Pregnancy,85118.3,Wrong Diagnoses
+1fdcf81b-9dcc-4d13-9a6d-77ace0e70b3c,74.0,Female,2023-02-20,2023-02-28,Routine Check-up,63826.81,No Fraud
+9fbb4d64-7675-4780-b39b-02bd1332d05e,50.0,Male,2023-07-07,2023-07-10,Pregnancy,188220.45,Wrong Diagnoses
+eee9de44-2bc9-4c73-ba59-0819367c164b,16.0,Female,2024-02-20,2024-02-22,Pneumonia,115754.91,No Fraud
+2cb7e0de-8c50-4a9d-8866-f30133de2bf2,81.0,Male,2024-04-24,2024-04-26,Pregnancy,24315.58,Wrong Diagnoses
+0a2c1ee7-803f-4e42-9d96-e41581b0736c,77.0,Male,2022-12-12,2022-12-15,Hypertension,87958.18,No Fraud
+9010b879-2ba2-4d47-8ba2-53e23eedbeec,88.0,Female,2024-07-06,2024-07-09,Cancer Treatment,186397.42,No Fraud
+83418642-3264-4cc9-9a0e-16922be3e471,57.0,Female,2023-09-15,2023-09-24,Cataract Surgery,131350.05,Wrong Diagnoses
+4b500d1d-4a8a-4dd4-b3f1-5485b8454fe3,38.0,Female,2022-12-02,2022-12-11,Routine Check-up,149943.72,No Fraud
+0c98725a-febf-49e9-bd07-1f72dc3bdd0d,34.0,Female,2022-03-10,2022-03-15,Cancer Treatment,150244.53,Wrong Diagnoses
+c51c864a-1c81-49e8-98b8-99615613fdea,54.0,Male,2023-09-16,2023-09-20,Pregnancy,147243.98,Wrong Diagnoses
+001aaf3c-dbe1-4e6d-aced-2f507e32a0a1,97.0,Male,2022-12-12,2022-12-17,Pregnancy,97495.28,Wrong Diagnoses
+89eec0eb-221a-4b85-89b7-45e93191be22,98.0,Female,2022-06-04,2022-06-04,Cesarean Section,137904.45,No Fraud
+4c171fe7-d3b8-460f-9511-8e127081bef4,12.0,Male,2024-10-31,2024-10-31,Pregnancy,66949.59,Wrong Diagnoses
+6a19ddf4-8cfe-48f3-aecb-10db53053a7e,43.0,Male,2024-04-28,2024-04-30,Pneumonia,71723.66,No Fraud
+b8e07b2b-fcdd-46be-ba6d-7e5301410598,89.0,Female,2023-11-10,2023-11-19,Diabetes,195891.35,No Fraud
+43ae0110-4f2b-4e56-8073-5f1d1abe584b,69.0,Female,2022-03-07,2022-03-16,Gastroenteritis,176745.88,No Fraud
+2ee69791-84eb-4269-9887-e65cc41388f2,92.0,Female,2024-03-15,2024-03-16,Diabetes,185406.78,No Fraud
+4ac7d026-b164-4dca-80c5-f9a57a03e16a,54.0,Male,2024-06-02,2024-06-02,Pregnancy,93860.77,No Fraud
+8d38d6cd-d66e-4b68-8da7-78d2e361ad64,93.0,Male,2022-01-19,2022-01-22,Pregnancy,111415.17,Wrong Diagnoses
+453be8cd-925a-4c73-bb71-27491c80a7c0,37.0,Male,2024-12-17,2024-12-18,Pregnancy,127362.1,Wrong Diagnoses
+4dc2d0f3-2a4b-4a57-b3b8-37cb7ca9de27,29.0,Female,2024-05-24,2024-05-26,Cancer Treatment,131071.97,No Fraud
+9113cbf8-a8eb-47e2-bb5c-9dcaae4fdcb2,77.0,Male,2024-05-20,2024-05-22,Cancer Treatment,58736.34,No Fraud
+4004,25.0,Female,2022-10-14 00:00:00,2022-01-27 00:00:00,ADENOIDAL HYPERTRPHY ISQ,3979.0,No Fraud
+ec33af4e-851a-4c67-9b15-899261144a6a,27.0,Female,2023-03-12,2023-03-19,Cesarean Section,23859.18,Wrong Diagnoses
+50c7d6ac-9d7b-4fa6-bec0-0a0a1495462d,13.0,Female,2022-03-05,2022-03-05,Routine Check-up,90505.06,Wrong Diagnoses
+6f311d9a-5c9a-4803-9175-303dfeadf798,82.0,Female,2022-07-21,2022-07-28,Diabetes,25497.56,Wrong Diagnoses
+0fcbaa6a-ad6a-464e-a5f4-6295cd4e68f1,28.0,Female,2023-06-23,2023-07-01,Routine Check-up,85145.6,No Fraud
+30834a65-27fd-4bac-bce7-60465ad7b908,15.0,Male,2023-08-07,2023-08-14,Hypertension,182640.67,No Fraud
+3d8e9aba-0865-4c7a-b6bf-8741f62c0760,85.0,Female,2023-03-07,2023-03-13,Migraine,143911.41,Wrong Diagnoses
+85b24411-a78c-4fe9-a0a3-abfa4be014ce,32.0,Female,2024-01-20,2024-01-30,Routine Check-up,87380.51,No Fraud
+2a145d32-43de-4b3d-81d1-745c9f40cd74,5.0,Male,2023-08-23,2023-08-29,Pregnancy,154336.49,Wrong Diagnoses
+848dad8b-1270-45b4-a9ad-54893179fa39,91.0,Female,2022-02-20,2022-03-01,Gastroenteritis,158867.28,Wrong Diagnoses
+3023b418-98bd-4db3-a130-333568f6b530,86.0,Male,2022-08-16,2022-08-18,Hypertension,191435.73,No Fraud
+453b38ed-bc89-4d99-a84d-c187c90203ef,39.0,Male,2024-04-22,2024-04-25,Pregnancy,66271.28,Wrong Diagnoses
+e2b16d5d-de0a-422e-8a2d-d909f1d4bd52,88.0,Female,2023-03-25,2023-04-03,Gastroenteritis,126045.17,Wrong Diagnoses
+3f055fe8-ac38-407e-b81d-06c7c653c5a2,60.0,Female,2023-03-02,2023-03-07,Pregnancy,64627.84,Wrong Diagnoses
+9800eda1-3b58-4613-9c36-75d052a0c4f4,39.0,Female,2024-12-28,2025-01-03,Pneumonia,117495.47,No Fraud
+81f292a3-fc0e-4f5b-8b4b-844a5f84b7ec,78.0,Male,2024-08-06,2024-08-14,Pregnancy,109197.02,Wrong Diagnoses
+1e52e119-17f5-4e57-ae10-eb0fb305bf00,96.0,Female,2022-06-30,2022-07-02,Pneumonia,171296.46,No Fraud
+6a91b742-4ea5-4c2b-bcde-ceedfedba40e,88.0,Male,2022-03-09,2022-03-13,Pregnancy,27246.44,Wrong Diagnoses
+48a2b3f2-eca6-4f9a-9527-96568684ef12,25.0,Male,2023-11-22,2023-11-27,Pregnancy,147642.29,Wrong Diagnoses
+495c8ec9-2fb6-451e-b253-66d8175fe0da,80.0,Male,2023-06-01,2023-06-10,Cesarean Section,41915.36,No Fraud
+d0934d2c-86bf-44b0-b19e-70426d4a1142,29.0,Female,2022-12-28,2023-01-01,Hypertension,75125.65,Wrong Diagnoses
+58d64a7a-d7a2-4592-b158-d1af66d9653f,56.0,Female,2022-03-24,2022-03-28,Routine Check-up,39667.56,No Fraud
+fdf8c685-2ec0-40bd-9fe7-785c00e81ce8,61.0,Male,2022-05-01,2022-05-08,Cancer Treatment,184716.21,No Fraud
+93d95835-cf47-4818-b3ac-6f82231fe326,83.0,Female,2022-10-15,2022-10-19,Diabetes,46591.1,Wrong Diagnoses
+6a687b8f-b9d3-4c78-82e0-b3bac0ad79e9,71.0,Male,2024-11-02,2024-11-12,Pregnancy,121424.69,No Fraud
+a7cf280f-c50b-46ee-81ad-d8ba87b8e036,70.0,Male,2023-10-19,2023-10-25,Pregnancy,61398.88,Wrong Diagnoses
+dab131f2-2d80-4e31-80c9-001744d5261e,94.0,Female,2022-06-11,2022-06-17,Diabetes,71577.43,Wrong Diagnoses
+becbeab7-26e7-4bc2-b05d-6b868d2ba81e,40.0,Male,2022-12-22,2022-12-30,Pregnancy,84294.62,Wrong Diagnoses
+b1d2ee88-9c84-4d62-a59d-8b7309838f24,18.0,Female,2024-06-03,2024-06-06,Diabetes,46701.78,No Fraud
+94ea6c3b-5e5a-4949-81a3-1495831d6ccd,3.0,Male,2024-04-27,2024-05-03,Pneumonia,165505.64,No Fraud
+809d9ffe-4461-445d-a620-8c61128c612f,80.0,Male,2022-12-07,2022-12-08,Cancer Treatment,149167.6,No Fraud
+ad0ae175-aef4-4b16-9907-4d13c75181d0,8.0,Male,2022-04-18,2022-04-28,Pneumonia,105758.66,No Fraud
+6d20a7ed-91e2-4120-b2e6-b4357a92ed68,32.0,Male,2024-09-23,2024-09-28,Diabetes,125971.67,No Fraud
+7da2c1de-5f8d-4efc-bcbd-349bbffff0d3,66.0,Male,2022-10-24,2022-10-25,Cesarean Section,111664.15,No Fraud
+af42a18e-1447-400a-a8bf-a21f0c776027,39.0,Male,2022-09-23,2022-09-27,Pregnancy,46632.5,Wrong Diagnoses
+4d791750-a619-43b4-a3b4-cda3bccc8187,37.0,Female,2023-07-06,2023-07-10,Cancer Treatment,25218.69,Wrong Diagnoses
+0be0201f-2982-4a8a-b599-69736752ae07,11.0,Female,2022-12-31,2023-01-05,Diabetes,95611.28,Wrong Diagnoses
+48793c9a-1f18-4c38-a2b9-3107a44e55c0,17.0,Male,2023-05-13,2023-05-14,Cataract Surgery,100697.43,No Fraud
+b427b741-5abb-432e-8f03-a5bfe5cd130c,35.0,Male,2022-12-23,2022-12-26,Migraine,101461.61,No Fraud
+4069,14.0,Male,2023-09-15 00:00:00,2024-05-04 00:00:00,MALARIA GERD R/O VIRAL HEPATITIS,3549.0,No Fraud
+7c252e6c-4bc3-431c-bcb0-796634e4d078,52.0,Female,2024-05-26,2024-05-26,Cancer Treatment,131965.31,Wrong Diagnoses
+86b83e60-0093-47dd-a203-911040c423a6,22.0,Female,2024-07-23,2024-07-29,Pregnancy,89990.57,Wrong Diagnoses
+9b23ca96-3f19-4067-bbff-ef0d093cde30,74.0,Male,2024-09-11,2024-09-12,Pregnancy,156406.17,Wrong Diagnoses
+6921480f-7570-4d4b-b941-b28d5ac88a85,30.0,Male,2024-05-12,2024-05-18,Cancer Treatment,134145.58,No Fraud
+0913338a-2b5f-4a14-bbf7-3d46f92cee08,56.0,Female,2022-10-13,2022-10-23,Pneumonia,31673.65,No Fraud
+289c001f-3078-4f19-b4c6-b460d1285fce,90.0,Female,2023-07-25,2023-07-30,Cancer Treatment,39904.25,No Fraud
+71698e21-c054-49a1-8e8e-8b8ef7dac2f6,64.0,Male,2023-11-23,2023-11-30,Cataract Surgery,81667.78,No Fraud
+a820e6cb-47f3-4ddc-96a5-fe7e0656c864,10.0,Male,2024-09-02,2024-09-11,Gastroenteritis,193525.19,No Fraud
+14a0c20f-6305-4c0e-9305-b945e9c6d6f1,42.0,Female,2024-11-11,2024-11-14,Migraine,117836.19,No Fraud
+38407306-48e8-43ae-b929-4c5d82557019,37.0,Male,2022-03-20,2022-03-28,Pregnancy,101966.19,Wrong Diagnoses
+b817844c-acfd-4e44-84a8-fe9c1a744875,15.0,Female,2024-10-05,2024-10-13,Cataract Surgery,86425.36,Wrong Diagnoses
+a8ea11c2-2805-4257-8bdd-94daf6777f5d,84.0,Male,2024-02-17,2024-02-22,Migraine,57986.9,No Fraud
+685491ec-9f64-4fb0-b843-881773d83ab0,37.0,Female,2023-08-09,2023-08-13,Cesarean Section,178769.79,Wrong Diagnoses
+79ff120e-a894-49c5-98b6-0583d17da9a4,28.0,Female,2024-07-15,2024-07-17,Pregnancy,41940.06,Wrong Diagnoses
+387,40.0,Male,2025-01-09,,SECONDARY INFERTITY,10500.0,No Fraud
+3960,45.22848664688427,Male,,,HTN,660.0,No Fraud
+23f7c7d5-687f-41e7-a4e3-6867b2c8fcbb,33.0,Male,2023-11-13,2023-11-18,Routine Check-up,147255.77,No Fraud
+8ebad508-dba0-49cd-a1cf-88c632153104,53.0,Male,2022-02-09,2022-02-13,Pregnancy,80453.78,Wrong Diagnoses
+4d7a5007-d20d-4097-b64c-79c91570fed6,46.0,Female,2024-10-07,2024-10-17,Routine Check-up,86423.19,Wrong Diagnoses
+ac7502b8-4d9b-4b75-b44f-784e3de3bd85,89.0,Female,2023-05-24,2023-06-01,Cataract Surgery,170951.92,Wrong Diagnoses
+87186556-20bc-43ea-af12-a975773e2768,10.0,Female,2022-05-29,2022-06-07,Cancer Treatment,75826.5,Wrong Diagnoses
+18de93fe-ca26-49d9-bf18-a686b03275ec,75.0,Female,2023-02-08,2023-02-18,Pneumonia,172488.34,Wrong Diagnoses
+6ff6f71c-0f39-4f09-aa7e-61fa34029110,49.0,Male,2024-12-22,2024-12-31,Routine Check-up,103856.84,No Fraud
+1d29f106-4472-429b-acb4-e6ed575c0d4d,85.0,Male,2023-06-16,2023-06-17,Pregnancy,75765.24,Wrong Diagnoses
+62099ef8-1302-4fcc-ba3c-1732b3e72d30,83.0,Female,2023-06-26,2023-07-04,Pneumonia,89212.04,No Fraud
+f24e32e6-b547-45be-b64e-c5284f5c7f51,29.0,Male,2023-02-06,2023-02-07,Pregnancy,102442.63,Wrong Diagnoses
+39ee17b3-a4be-401d-9767-ecbb1f3b2764,91.0,Male,2023-09-25,2023-10-03,Pregnancy,50171.46,Wrong Diagnoses
+13f70083-5d4d-43c6-bb0d-00d343820bea,39.0,Female,2024-06-18,2024-06-22,Migraine,105552.74,No Fraud
+9b1ccec8-b40e-4fcd-8dda-763001c32151,41.0,Female,2023-01-03,2023-01-11,Pneumonia,190909.18,No Fraud
+ae57039b-29d5-44e1-b1e2-f656ee9dc3c9,56.0,Male,2022-12-06,2022-12-11,Migraine,164217.78,No Fraud
+b88ca2fa-f200-4a99-af09-1f9e90f91316,78.0,Male,2022-09-05,2022-09-10,Pregnancy,57444.42,Wrong Diagnoses
+59e85d7d-386d-4a88-9b3b-660eb9b260af,64.0,Male,2024-06-05,2024-06-14,Hypertension,138323.63,No Fraud
+f76e0ed2-73c2-46fb-9942-0159f8490d05,39.0,Female,2022-08-20,2022-08-22,Hypertension,139772.86,No Fraud
+d5280765-9012-40ee-af9f-cdf0172641a6,96.0,Male,2023-02-11,2023-02-19,Pregnancy,112603.04,Wrong Diagnoses
+b8c1c972-1227-4884-ba82-e70d045d6baa,47.0,Male,2022-10-23,2022-10-27,Cataract Surgery,116009.59,No Fraud
+3d8d3ebc-b14c-43b1-afce-03847b989f7f,34.0,Female,2023-02-24,2023-02-25,Hypertension,45717.67,No Fraud
+9fe2c43c-314b-4c6d-a99f-3fad9235c433,93.0,Male,2023-09-30,2023-10-05,Pregnancy,119617.32,Wrong Diagnoses
+eaa4a2c8-5ef0-47e6-ac83-6aca80f2cfd1,8.0,Male,2022-08-24,2022-08-30,Pregnancy,45701.27,Wrong Diagnoses
+10aca8d9-0189-4958-be52-ba4db629be04,38.0,Female,2022-08-20,2022-08-22,Hypertension,91747.94,Wrong Diagnoses
+0d88af92-d9a2-467f-aef5-4f34c69896b8,38.0,Male,2024-12-30,2025-01-05,Cataract Surgery,94438.84,No Fraud
+3f516be8-e476-4d03-a533-54bb8076e504,40.0,Male,2024-03-15,2024-03-17,Routine Check-up,189927.58,No Fraud
+62da87f1-8b60-460a-83ff-980f4ac49eee,21.0,Male,2022-05-04,2022-05-13,Pregnancy,191414.25,No Fraud
+7c0b9df2-9ebd-461a-905c-21345edf7ab2,24.0,Female,2023-04-24,2023-04-29,Hypertension,150674.38,No Fraud
+a4f048ee-2bc6-4700-b01a-cd8594bb163c,45.0,Female,2024-09-08,2024-09-10,Routine Check-up,149985.78,No Fraud
+92f8e134-c9ce-43b1-8a4d-7f65cf8dc4c1,12.0,Female,2022-12-03,2022-12-08,Pneumonia,46347.67,Wrong Diagnoses
+782549a1-c933-43b3-862f-97f06dd2670c,43.0,Male,2022-01-05,2022-01-05,Pregnancy,124259.61,Wrong Diagnoses
+313cbbbb-b13a-4518-9706-4b65a3096e99,2.0,Male,2024-05-01,2024-05-02,Pregnancy,113173.37,Wrong Diagnoses
+3214dc95-6adb-4849-92f3-8e15c4ed7dc2,54.0,Male,2022-09-14,2022-09-22,Pneumonia,82911.15,No Fraud
+e367e9b3-0d2a-445f-8d03-57967f8e6525,79.0,Female,2024-09-15,2024-09-15,Cataract Surgery,142243.19,No Fraud
+b5f426fc-1075-4ad6-8909-a2694687a71c,51.0,Male,2022-11-20,2022-11-29,Cataract Surgery,134138.73,No Fraud
+8bb935e8-1d47-44cb-8760-47cd4c7ec291,16.0,Female,2023-04-23,2023-05-02,Diabetes,84072.4,Wrong Diagnoses
+6b8c27d2-212e-43a5-a0c6-8d61d7abaa3f,29.0,Male,2023-07-24,2023-08-02,Pregnancy,122919.02,No Fraud
+f3e964f2-4353-4be2-a51b-14279acab157,82.0,Female,2022-11-25,2022-11-28,Migraine,86811.04,No Fraud
+f5339daf-3ca3-4af7-8e10-ec582c63f023,100.0,Female,2024-09-22,2024-10-02,Diabetes,87543.4,No Fraud
+372785e7-f6d7-4701-8c4f-efed2142468e,63.0,Female,2024-01-24,2024-02-03,Routine Check-up,191151.39,Wrong Diagnoses
+69092062-30d8-40c0-8f8d-2766e555aa3b,19.0,Male,2022-07-24,2022-07-28,Cesarean Section,46799.85,No Fraud
+e0ea982e-90ca-4518-a1bf-daa470d33069,98.0,Male,2022-01-08,2022-01-10,Migraine,150462.07,No Fraud
+7193dd0f-eb26-42fc-bdf0-6819e2f6bd6e,53.0,Male,2023-11-03,2023-11-12,Pregnancy,184115.78,No Fraud
+c1619302-f9b3-4f34-88cf-35feede9a4f8,78.0,Male,2024-09-21,2024-09-27,Pneumonia,54907.01,No Fraud
+efb5c92d-e269-4dd8-a4cb-c111187aa802,72.0,Male,2024-05-12,2024-05-13,Cataract Surgery,141764.23,No Fraud
+e4406a6c-22d1-4187-a588-a5b1f77ca8f5,7.0,Female,2022-06-27,2022-07-06,Hypertension,102306.94,Wrong Diagnoses
+120,45.22848664688427,Female,2024-09-11,2024-09-11,GDM,3600.0,No Fraud
+86c28e5f-43a8-4d78-8f2f-bd7163ceacd2,94.0,Male,2022-01-16,2022-01-19,Cesarean Section,190109.1,No Fraud
+0ee16bd6-d12d-4362-9a28-7f8492dcc2fa,12.0,Female,2023-05-12,2023-05-15,Pneumonia,168145.1,No Fraud
+43cb5299-d1d4-40d2-a619-deab89d1f32c,42.0,Male,2024-08-19,2024-08-19,Pregnancy,99989.3,Wrong Diagnoses
+62cc92d4-b3eb-41db-969f-673e5730f671,13.0,Female,2022-03-31,2022-04-03,Cataract Surgery,107456.92,No Fraud
+58163c5b-e0a6-487b-ab4a-9e8031c6f066,17.0,Female,2022-05-10,2022-05-15,Cataract Surgery,62623.65,No Fraud
+cd716f99-235a-430f-9ba7-52679d45838e,83.0,Female,2024-03-21,2024-03-23,Cesarean Section,73152.29,No Fraud
+016ea09e-1602-4e73-8241-0b6908fd9b73,27.0,Female,2022-10-05,2022-10-07,Migraine,53160.47,No Fraud
+2a812abc-dd0e-466a-b516-713997764a7f,86.0,Male,2022-11-06,2022-11-11,Pneumonia,49796.35,No Fraud
+71,45.22848664688427,Female,2024-05-27,2024-05-27,VULVOGAGINAL CANDIDIASIS REFRACTIVE ERROR ALLERGY,206.4,No Fraud
+21371c89-403f-4732-a7a5-a78dd90cab1e,100.0,Male,2024-09-26,2024-09-26,Pregnancy,42619.01,Wrong Diagnoses
+8011affb-8b27-4b98-9448-f3f0d37ef543,89.0,Female,2024-10-06,2024-10-06,Hypertension,171213.89,No Fraud
+b41c5b83-b70b-4c1f-ba2c-de1bc52bab14,74.0,Female,2024-07-07,2024-07-16,Hypertension,22916.07,Wrong Diagnoses
+e0ef7e76-0bb8-4764-a8af-fc948be89f08,23.0,Female,2024-05-10,2024-05-11,Hypertension,171164.41,No Fraud
+109,45.22848664688427,Female,2024-10-25,2024-10-25,HEPATITIS B INFECTION,4750.0,No Fraud
+610ce626-1cd5-457b-af9c-d57577e964e9,15.0,Male,2022-05-30,2022-06-06,Cesarean Section,89089.93,No Fraud
+089305cf-a24f-4cf9-881e-c5db0e2a422d,84.0,Male,2024-10-06,2024-10-12,Pregnancy,115158.19,Wrong Diagnoses
+bc0b7d9c-9d4c-4148-97b2-81ec9b5a89a2,25.0,Female,2023-05-29,2023-06-06,Cataract Surgery,30448.34,No Fraud
+4049,93.0,Male,2020-10-16 00:00:00,2020-08-01 00:00:00,BOO BPH R/O CA,2159.0,No Fraud
+45f5e23c-5912-45b9-a392-08ee5f0d3b2e,19.0,Male,2023-05-02,2023-05-03,Pregnancy,32273.59,Wrong Diagnoses
+6f3442c5-89b8-4ca8-9a51-00be0ba14609,31.0,Female,2024-06-30,2024-07-06,Pneumonia,37909.04,Wrong Diagnoses
+4b992e5d-134a-4dca-924d-8cf75ef638f7,18.0,Male,2022-12-25,2022-12-31,Pregnancy,192532.93,No Fraud
+b88b9f7c-dcae-41bc-a24c-2a5bd9fe0de1,87.0,Male,2024-07-22,2024-07-22,Gastroenteritis,42011.97,No Fraud
+6f66572b-a722-4bd5-b044-dc4e0c103f16,59.0,Male,2022-03-16,2022-03-21,Routine Check-up,97953.7,No Fraud
+93122d6d-d62f-479f-ac31-d3bcfd54d241,92.0,Female,2022-07-09,2022-07-18,Hypertension,66277.3,Wrong Diagnoses
+c2478609-5b4a-42f0-9681-611d8d05fc40,74.0,Female,2022-09-21,2022-10-01,Gastroenteritis,154653.17,Wrong Diagnoses
+bf6f04b7-c4ab-4629-9d57-4de9697a4615,73.0,Male,2022-04-16,2022-04-25,Pregnancy,167122.34,Wrong Diagnoses
+2209b3e1-b53b-4f37-805a-b72b7d27ec7d,25.0,Male,2023-12-19,2023-12-20,Pneumonia,123895.98,No Fraud
+c4eff76b-9b0d-4d2e-9653-01d85e177891,91.0,Female,2024-11-19,2024-11-27,Pregnancy,162787.04,No Fraud
+0584c5b7-62af-4b0f-8069-96a810d0196b,17.0,Female,2022-04-04,2022-04-14,Migraine,26801.16,No Fraud
+32049665-3ff0-482f-920d-64bdd4edcbba,91.0,Female,2024-10-08,2024-10-17,Cataract Surgery,80154.69,Wrong Diagnoses
+28c55490-c6d7-422c-8593-b90512794a7c,58.0,Female,2024-11-23,2024-11-24,Diabetes,191284.46,Wrong Diagnoses
+6d82d482-5314-43a5-bbf9-36e1d2efb8b9,99.0,Female,2023-01-02,2023-01-03,Routine Check-up,196612.01,No Fraud
+65a8aa0f-0d48-4374-9da8-ad62e5beb44c,100.0,Male,2023-11-21,2023-11-21,Pregnancy,58704.06,Wrong Diagnoses
+42aa6eb1-2420-44d3-b06f-f24beb494014,79.0,Female,2022-04-09,2022-04-10,Pneumonia,146085.94,Wrong Diagnoses
+f24f25ea-ea7e-4f16-a8bf-012b49ec6ec3,92.0,Male,2022-08-05,2022-08-15,Pregnancy,197397.29,Wrong Diagnoses
+2d4226b0-cdfb-4962-9452-45f42623bb64,23.0,Male,2022-06-25,2022-06-26,Pregnancy,137032.06,Wrong Diagnoses
+07b8d617-14f1-4f86-8394-f043d51806f2,1.0,Male,2023-02-02,2023-02-06,Pregnancy,143903.58,Wrong Diagnoses
+453acc9b-7cff-4f00-aae4-3805ccae8c62,65.0,Female,2024-03-29,2024-03-29,Cesarean Section,61999.91,Wrong Diagnoses
+2d298d51-a84a-4357-9f05-4eae9515d794,88.0,Female,2023-07-23,2023-07-25,Diabetes,52920.88,No Fraud
+c259576f-93d8-4c48-b1c0-c24a0cb253ad,48.0,Male,2022-09-22,2022-09-30,Pregnancy,193426.39,Wrong Diagnoses
+05ce6ab4-b13f-4a95-babc-6d98c5d3a597,100.0,Male,2022-12-09,2022-12-15,Pregnancy,168861.78,Wrong Diagnoses
+b553aa04-219b-4872-8a53-8ee5fa8a735f,97.0,Male,2024-11-27,2024-11-28,Cesarean Section,145093.75,No Fraud
+87102cf9-612f-4977-a854-18aa737ff52c,45.0,Female,2023-05-21,2023-05-28,Gastroenteritis,111513.08,Wrong Diagnoses
+2e626dfd-e1e7-4468-85d1-700e8b28ad67,81.0,Female,2022-09-02,2022-09-07,Migraine,187765.06,Wrong Diagnoses
+7fed27c4-79f6-4e05-b23d-67f769739f05,87.0,Male,2022-11-17,2022-11-26,Pregnancy,175585.93,Wrong Diagnoses
+07f84a30-fa86-4bd3-b5a4-c39545a96e23,8.0,Female,2022-01-25,2022-01-25,Diabetes,154355.46,No Fraud
+227b86ba-1ae1-4a9a-98cf-0a41bb67bc7b,16.0,Male,2023-06-05,2023-06-12,Pregnancy,136951.91,Wrong Diagnoses
+4150,6.0,Female,2022-03-02 00:00:00,2025-09-08 00:00:00,ED PSYCOGENIC,10063.0,No Fraud
+53cf8c5f-bca6-4686-9d48-08298e5d56fa,83.0,Male,2024-03-12,2024-03-18,Cataract Surgery,122487.93,No Fraud
+600f991a-456b-4651-b2d3-384641f6db36,72.0,Male,2022-12-21,2022-12-31,Pregnancy,142341.52,Wrong Diagnoses
+e39e1105-1fe3-4ad7-a84d-b9b7eb1eb008,42.0,Female,2024-11-15,2024-11-15,Cancer Treatment,193605.8,Wrong Diagnoses
+297,45.22848664688427,Female,2023-08-13,,DM,2400.0,No Fraud
+86,45.22848664688427,Male,2024-11-05,2024-11-05,HYPEROPIA,3500.0,No Fraud
+febb98cb-13f4-4d69-90cb-5e0c521ae197,80.0,Male,2024-02-23,2024-02-23,Cataract Surgery,187055.06,No Fraud
+a2b14c77-3542-4cbd-91fc-341a48f41a41,91.0,Female,2022-11-02,2022-11-10,Routine Check-up,52539.67,Wrong Diagnoses
+2541a8fa-b034-4fac-8a01-f5a36ab55c4d,28.0,Male,2023-11-25,2023-11-28,Pregnancy,40228.94,Wrong Diagnoses
+72b132fe-0aa9-461c-a080-79897f51df5f,43.0,Female,2023-09-19,2023-09-19,Hypertension,65941.62,No Fraud
+cc41f913-5f0f-44d1-92b4-99ee4118bd58,38.0,Male,2022-02-07,2022-02-08,Pregnancy,21006.95,No Fraud
+7c69d522-a2f3-4b01-9c05-6cbdcaa978b0,91.0,Female,2022-06-23,2022-07-03,Cataract Surgery,194578.19,Wrong Diagnoses
+b594e943-a17b-4af7-9a02-809fde9af9f5,1.0,Male,2022-07-18,2022-07-28,Routine Check-up,180144.87,No Fraud
+5cc2d0d3-430d-44d9-a143-b4d4401ff918,77.0,Male,2022-05-17,2022-05-22,Migraine,99258.22,No Fraud
+09fd518e-5312-4111-bf95-87b1d33239b8,69.0,Male,2024-09-12,2024-09-18,Cesarean Section,199740.84,No Fraud
+c2ac78b1-9ad7-402b-b5d2-97a4e4014a3a,39.0,Male,2024-11-14,2024-11-19,Cataract Surgery,164898.02,No Fraud
+2ea98974-180f-4ea2-b51e-bddf7b43083c,39.0,Female,2022-11-03,2022-11-04,Pneumonia,168953.41,No Fraud
+7ac5b3ac-6481-4688-ade6-2de557c276e3,42.0,Male,2022-07-09,2022-07-18,Pregnancy,63972.25,Wrong Diagnoses
+e408a15e-e6e9-4401-9867-d89b7ba75ba8,83.0,Male,2024-12-05,2024-12-14,Pregnancy,38933.89,Wrong Diagnoses
+227bcb62-109f-42d1-9840-ef86a42e3f22,68.0,Male,2023-07-16,2023-07-24,Hypertension,189329.07,No Fraud
+3d92bae0-e995-4508-942c-c91689d2081d,40.0,Male,2022-12-08,2022-12-16,Pregnancy,27840.92,Wrong Diagnoses
+4068,15.0,Male,2023-01-14 00:00:00,2022-10-11 00:00:00,RVD ON HAART HAEMORRHOID FURUNCULITIS,9056.0,No Fraud
+3b838530-6bd1-4aca-bd5d-ce43aa0df6e1,95.0,Female,2024-11-18,2024-11-23,Gastroenteritis,115473.92,Wrong Diagnoses
+af1bd999-c0ab-4bf0-b1b8-7c576b7befec,66.0,Male,2023-03-09,2023-03-09,Pregnancy,131206.38,Wrong Diagnoses
+ec386336-2a48-479c-b28c-bde7da347683,100.0,Male,2023-04-08,2023-04-08,Pregnancy,104132.27,Wrong Diagnoses
+1822,45.22848664688427,Female,2023-02-11,2023-02-11,HTN,660.0,No Fraud
+092beb52-2fa9-4f45-aa70-68bf402af257,65.0,Male,2024-11-21,2024-11-22,Diabetes,25971.35,No Fraud
+ed987e59-9233-4239-8e15-67dc6d4556b7,79.0,Male,2022-03-06,2022-03-14,Pregnancy,26010.78,No Fraud
+874dd9d9-9972-412b-8eae-ff097ab87068,35.0,Male,2024-09-26,2024-10-04,Diabetes,162017.33,No Fraud
+f8e23b0e-6e48-486d-9fa2-9d165ddc324a,30.0,Female,2024-11-14,2024-11-24,Gastroenteritis,142062.05,Wrong Diagnoses
+105af703-6d6a-4c38-83e2-de5229000ed7,23.0,Male,2022-08-29,2022-09-03,Cesarean Section,55544.69,No Fraud
+ec979478-5e42-4622-bcd2-76b1d7a9ec59,48.0,Female,2022-06-20,2022-06-28,Cancer Treatment,166514.65,No Fraud
+331,45.22848664688427,Male,2023-06-13,,SEVERE ABDOMINAL PAIN,7900.0,No Fraud
+1c5a204f-2131-468f-bce6-3b642d4473d7,43.0,Male,2024-01-07,2024-01-15,Diabetes,92039.44,No Fraud
+347dfad4-feb0-4fc2-aff9-ec2ff7ea69ce,99.0,Male,2022-11-12,2022-11-16,Gastroenteritis,176288.83,No Fraud
+b3a6edce-5f60-4a5f-8444-b91a68519f37,18.0,Female,2024-03-14,2024-03-14,Routine Check-up,48754.9,Wrong Diagnoses
+b0b736f1-f4b2-47fa-bf95-83f883ed3155,5.0,Female,2024-11-15,2024-11-24,Hypertension,194932.47,Wrong Diagnoses
+764f9835-179c-40ef-b756-1a31a74845a1,72.0,Male,2023-03-25,2023-03-28,Pregnancy,124093.71,Wrong Diagnoses
+f3302a56-6506-48d0-bf17-b0b5397dd90a,4.0,Female,2022-11-13,2022-11-13,Diabetes,108392.23,No Fraud
+61b762ce-1f6a-4ed9-8afe-b5d30c3423d0,100.0,Male,2024-10-31,2024-11-09,Pregnancy,107955.77,Wrong Diagnoses
+9e1b2db2-a353-4894-a361-74eef1658795,80.0,Male,2023-04-22,2023-04-23,Hypertension,181970.0,No Fraud
+a0fb6ee8-651b-4b8e-9f10-483081119901,59.0,Male,2023-09-15,2023-09-20,Pregnancy,118976.34,Wrong Diagnoses
+45f86c66-5326-42d5-9f27-bb7a17d24464,5.0,Male,2023-04-26,2023-05-06,Pregnancy,77740.41,Wrong Diagnoses
+01a0d745-a39b-4671-9922-7be97e04a067,1.0,Female,2024-11-26,2024-12-03,Hypertension,168508.89,No Fraud
+da6f47cc-2e28-4c01-83ab-d4b43be96fce,67.0,Male,2023-02-18,2023-02-28,Pneumonia,75503.91,No Fraud
+0eea2212-200c-48fb-a8b6-e0ce487bfca8,77.0,Male,2023-06-14,2023-06-22,Pregnancy,98528.08,Wrong Diagnoses
+004d039b-d4ab-4bce-9746-5b1e7cec37e6,86.0,Male,2022-06-09,2022-06-18,Pregnancy,148511.47,No Fraud
+ee0b5f03-bf80-40e2-ac45-d6a14cae45f6,7.0,Male,2022-01-11,2022-01-17,Cataract Surgery,105281.01,No Fraud
+71881643-78ee-46d6-b05a-11691800dbe0,55.0,Female,2024-07-13,2024-07-17,Cancer Treatment,76097.52,Wrong Diagnoses
+63939f22-b309-4907-98ff-4d9cea72698d,19.0,Male,2024-02-22,2024-03-01,Pregnancy,39929.71,No Fraud
+1864,45.22848664688427,Female,2023-11-19,2023-11-19,PNUEMETIOD,700.0,No Fraud
+28360940-6a68-4c05-96da-9c5e4aa160aa,41.0,Female,2024-10-12,2024-10-14,Cataract Surgery,137400.37,No Fraud
+ea126c0e-ba49-485e-9fb9-ce938a431117,71.0,Female,2022-05-15,2022-05-22,Hypertension,115610.52,No Fraud
+c76999bd-8dd5-4c55-aac4-b6a27fa40a46,36.0,Female,2023-11-22,2023-11-24,Cancer Treatment,126858.94,No Fraud
+b1975f79-0998-43ee-b7c1-938c20207169,47.0,Female,2023-11-25,2023-12-02,Hypertension,186171.69,No Fraud
+2bb88c5c-5e4e-4f3b-895b-627bbc3758ec,38.0,Male,2023-11-05,2023-11-08,Pregnancy,121759.45,Wrong Diagnoses
+80200a33-57c4-4f85-ba73-ddbeef5cb74e,82.0,Male,2023-11-30,2023-12-06,Pregnancy,92263.12,Wrong Diagnoses
+0fc05a40-7688-4254-95fa-c1d56fbdb66f,79.0,Female,2023-05-06,2023-05-10,Hypertension,171597.81,No Fraud
+a7dc5f1e-537a-4d52-bf86-1d9b25c402df,87.0,Male,2023-02-11,2023-02-12,Pregnancy,92441.93,Wrong Diagnoses
+55,45.22848664688427,Male,2025-01-29,2025-01-29,SEVERE PAIN IN BOTH HAND SEC TO FALL,7280.0,No Fraud
+f6ef6ead-3b44-4feb-a532-b9a563d02737,70.0,Male,2024-03-27,2024-04-04,Pregnancy,84589.15,Wrong Diagnoses
+ded50b89-c708-4dc7-934a-4eb760b9c078,60.0,Male,2022-07-11,2022-07-14,Pneumonia,134600.54,No Fraud
+f838317b-44f7-44cc-a059-a8e21c043eab,7.0,Female,2023-09-24,2023-10-03,Hypertension,142129.99,Wrong Diagnoses
+d7275a31-d410-4132-8471-c64cac325701,72.0,Male,2022-10-26,2022-11-05,Hypertension,105010.72,No Fraud
+733bc87d-a030-40c7-8952-a37902f4c2d2,32.0,Female,2024-08-04,2024-08-12,Pregnancy,23322.16,Wrong Diagnoses
+2b199f5b-daff-4646-9fe3-7d7b30011ff9,74.0,Female,2024-12-29,2024-12-30,Cancer Treatment,181256.05,Wrong Diagnoses
+9060b380-ab2e-4663-ac49-38d25106a7b2,94.0,Female,2024-04-15,2024-04-21,Cesarean Section,176171.4,Wrong Diagnoses
+7e80e087-6767-4b9f-9efb-b2d031f5596e,84.0,Male,2022-09-24,2022-10-03,Pregnancy,63824.07,Wrong Diagnoses
+5dff2264-eaf3-4f85-a44f-f3f526861cf1,55.0,Male,2024-09-24,2024-09-28,Pneumonia,172208.79,No Fraud
+4037,20.0,Female,2023-12-17 00:00:00,2024-12-26 00:00:00,HYPERLIPIDAEMIA,5885.0,No Fraud
+a562722f-6266-43d3-bc31-6617258836c9,26.0,Male,2023-07-15,2023-07-22,Pregnancy,106603.73,Wrong Diagnoses
+3a6ef50b-05a5-463d-accd-bbedb4e266f2,46.0,Male,2024-05-06,2024-05-15,Cancer Treatment,37376.2,No Fraud
+25aaed55-176c-4c81-a23f-c20a134adca0,33.0,Male,2023-01-29,2023-02-08,Pregnancy,100804.11,Wrong Diagnoses
+4f662614-3016-4e05-b27e-e1d6fdb30031,67.0,Male,2024-09-27,2024-09-30,Pregnancy,78463.8,Wrong Diagnoses
+9110c1cb-de67-4dde-806f-c25863a92a2e,19.0,Male,2024-05-21,2024-05-22,Pregnancy,47701.98,Wrong Diagnoses
+c93bb593-9423-4f83-9413-3426b38ade3f,15.0,Male,2024-12-04,2024-12-12,Pregnancy,62155.0,Wrong Diagnoses
+c94abc5e-75f2-4b8f-b79b-befce34dca80,92.0,Female,2023-05-18,2023-05-21,Hypertension,45344.53,No Fraud
+f8e83f82-7355-4d21-b827-2df79b705879,59.0,Female,2023-10-12,2023-10-14,Routine Check-up,121500.73,Wrong Diagnoses
+1cba0c04-8cee-4ad4-a1bc-48bbee6ea20a,69.0,Male,2024-11-09,2024-11-09,Pregnancy,194315.44,Wrong Diagnoses
+104,45.22848664688427,Female,2024-10-22,2024-10-22,R/O TEMPORAL ENTERITIS LT BREAST SWELLING,4000.0,No Fraud
+e08963d4-6696-43f5-af52-a8f02fdc601c,81.0,Female,2023-06-23,2023-06-30,Gastroenteritis,119146.94,Wrong Diagnoses
+9002dff3-fcac-43e8-964f-1a2d257bb10e,92.0,Female,2022-05-21,2022-05-29,Migraine,123642.64,Wrong Diagnoses
+827e70b6-8305-4697-85ea-56909f8e55eb,40.0,Male,2024-10-19,2024-10-29,Routine Check-up,88749.14,No Fraud
+b24894d6-06e5-4b9a-8421-e77e52642ea1,68.0,Male,2024-02-06,2024-02-08,Pregnancy,31959.89,No Fraud
+7e49aafb-d9c9-4473-a3ed-968399704bda,13.0,Male,2024-05-15,2024-05-20,Pregnancy,30546.36,Wrong Diagnoses
+8e91e2d3-f32d-407d-9886-551396e6fcd9,67.0,Male,2023-12-03,2023-12-07,Pregnancy,55565.23,Wrong Diagnoses
+ed5cfec0-38fd-46eb-8627-8e2854f05010,93.0,Male,2024-03-28,2024-04-01,Cancer Treatment,42698.49,No Fraud
+e7557a2a-f1ff-4a5f-bb8a-1c4e467740b5,26.0,Male,2023-02-15,2023-02-15,Pregnancy,70535.35,Wrong Diagnoses
+4dfd6cce-6b10-4817-8003-6a3756676b72,25.0,Male,2023-07-17,2023-07-25,Pregnancy,41591.53,Wrong Diagnoses
+46d1b94c-9a7e-4c76-b6ab-79a28c48249a,11.0,Male,2022-02-11,2022-02-11,Pregnancy,31205.11,Wrong Diagnoses
+f39d1f88-fab8-42b9-9da2-75bdd0bbf3a1,14.0,Female,2023-11-20,2023-11-28,Migraine,121752.01,No Fraud
+3c7a3b49-5bf0-4fc6-9563-9c82e49bb9cf,20.0,Female,2022-12-29,2023-01-05,Cataract Surgery,76514.01,Wrong Diagnoses
+02f7e454-4a19-43f9-9812-3d87c8f1aacb,74.0,Female,2023-07-15,2023-07-16,Diabetes,47434.88,No Fraud
+1c37e8bf-3381-4579-bc57-8b68c613ce41,94.0,Female,2024-02-08,2024-02-15,Routine Check-up,144223.64,Wrong Diagnoses
+3167,45.22848664688427,Male,2024-12-12,2024-12-12,GASTRITIS PUD,910.0,No Fraud
+dd19f63d-6789-49b9-a72a-0660d136557e,72.0,Female,2022-03-17,2022-03-23,Hypertension,181285.11,No Fraud
+45bc916d-2b20-4d32-bb5e-9fdd48f30f45,3.0,Female,2022-10-30,2022-11-03,Hypertension,68662.75,Wrong Diagnoses
+257116cd-6498-49b3-8f23-8c0336325cdc,79.0,Male,2024-06-07,2024-06-13,Hypertension,169505.0,No Fraud
+41c38808-305c-40ed-ba6a-30536c0effa7,95.0,Female,2023-06-12,2023-06-22,Routine Check-up,75008.76,No Fraud
+717875cd-05ee-450f-8f2f-a94d8ea29b79,55.0,Female,2024-03-07,2024-03-08,Pregnancy,191038.02,Wrong Diagnoses
+e86a000b-fb4f-4ed0-8afa-a70bcdf28546,39.0,Male,2022-10-02,2022-10-11,Migraine,26508.87,No Fraud
+39884c46-e099-46f6-888a-64fea7b931d7,36.0,Male,2024-02-26,2024-03-02,Routine Check-up,37097.6,No Fraud
+423eebc3-97d5-4c03-a74b-c3b0351e15de,10.0,Female,2023-10-19,2023-10-22,Cesarean Section,158508.73,Wrong Diagnoses
+1ae0b95d-8a49-4d57-b558-e23c952acbb2,57.0,Female,2022-07-09,2022-07-16,Cesarean Section,38114.75,No Fraud
+d6120459-05d1-4f0f-9fd7-72ef167b5cd5,16.0,Male,2023-07-20,2023-07-24,Pregnancy,184026.11,Wrong Diagnoses
+87cd9b8b-015f-4e0d-8f89-4c587a9c7c2b,73.0,Female,2022-08-21,2022-08-22,Hypertension,153187.63,Wrong Diagnoses
+bc2293a8-cca1-4dd7-a2f1-68b15a65a536,77.0,Male,2024-10-22,2024-10-30,Pregnancy,144081.22,Wrong Diagnoses
+cdb1d26f-b9eb-4b94-9213-8c9b96796179,80.0,Female,2022-10-31,2022-11-08,Diabetes,197910.18,No Fraud
+20c9d851-c950-401b-b82d-e0bc17b52d87,94.0,Female,2023-05-06,2023-05-09,Migraine,58182.57,No Fraud
+6dad657e-0fc7-4f60-99f6-46be5a877a69,45.0,Female,2023-09-15,2023-09-18,Cataract Surgery,174371.15,Wrong Diagnoses
+6df25d01-d500-43ca-879d-0299bdb93661,31.0,Female,2022-12-20,2022-12-21,Hypertension,21494.87,No Fraud
+5e907e39-6775-4de4-a236-9d487d4a73d1,50.0,Male,2022-08-17,2022-08-21,Cataract Surgery,125955.86,No Fraud
+5071b48c-1581-4f3c-844a-c41a63927fa4,17.0,Female,2024-11-15,2024-11-22,Pneumonia,192178.8,No Fraud
+cd60409b-a154-4498-8b5e-d0334efe4b78,29.0,Male,2023-11-22,2023-11-24,Pregnancy,132724.07,Wrong Diagnoses
+01056ebc-c5f0-46a1-915b-eb11d33fcc3d,87.0,Female,2022-10-24,2022-10-26,Diabetes,102578.29,Wrong Diagnoses
+673a4f4f-245f-4129-a0af-08bda6853431,27.0,Male,2023-08-07,2023-08-14,Pregnancy,52135.92,No Fraud
+d57ca0ce-0364-45d8-a645-3e0caa9b87b1,56.0,Male,2022-05-10,2022-05-12,Pregnancy,56842.42,Wrong Diagnoses
+4e696040-7545-4ec4-b052-edb8815801e6,7.0,Female,2024-08-07,2024-08-16,Hypertension,110089.08,No Fraud
+f32f415e-8e92-4cbc-949c-a23bed92e783,24.0,Male,2024-02-20,2024-02-26,Pregnancy,159049.61,Wrong Diagnoses
+19541a69-b6a9-4c56-ab13-7de17d8c7168,17.0,Female,2024-03-09,2024-03-16,Migraine,190134.16,Wrong Diagnoses
+d38f7ef2-2f9f-4450-824a-e419db0d0866,4.0,Female,2022-08-02,2022-08-04,Hypertension,188263.19,Wrong Diagnoses
+4ab16c27-6011-44f2-9040-32cbe18317d4,50.0,Male,2022-02-05,2022-02-08,Routine Check-up,94631.61,No Fraud
+c55dc525-5034-4bde-9440-a7cc55d1de6f,79.0,Male,2022-12-31,2022-12-31,Gastroenteritis,66551.75,No Fraud
+c114f961-84e5-480f-9a57-9968f97c29a4,32.0,Male,2024-07-23,2024-07-30,Pregnancy,123011.09,Wrong Diagnoses
+309,45.22848664688427,Female,2023-07-05,2025-02-05,RVD,1150.0,No Fraud
+f61870b8-a91d-4b7a-8e81-4a3444b63663,82.0,Male,2023-03-24,2023-03-27,Pregnancy,177735.09,Wrong Diagnoses
+7379dcf4-ab49-432e-8e89-6ab76a8aa0df,26.0,Male,2024-01-17,2024-01-21,Pregnancy,46575.83,Wrong Diagnoses
+c51c0a9a-5aa1-44b7-9810-ee1b5fbd12c6,41.0,Male,2023-08-11,2023-08-11,Migraine,34163.06,No Fraud
+54f50d21-ed66-4158-be76-c30236988b40,80.0,Male,2023-12-26,2023-12-28,Pneumonia,164371.26,No Fraud
+548c0c39-d23d-42ac-862a-e016d96d9010,26.0,Male,2023-08-28,2023-09-04,Pregnancy,160465.79,Wrong Diagnoses
+356,32.0,Female,2023-04-24,,BPH,9790.0,No Fraud
+5f853488-2203-477f-b579-77c825dc7902,31.0,Female,2023-08-29,2023-09-06,Routine Check-up,135208.78,Wrong Diagnoses
+1dca34f9-2fc4-4726-85f0-98919b0b188e,54.0,Female,2022-01-03,2022-01-04,Pneumonia,164147.26,Wrong Diagnoses
+d010b37a-80df-4e21-919e-1a68b13e709b,58.0,Male,2024-10-22,2024-10-23,Pregnancy,64162.84,Wrong Diagnoses
+4152,90.0,Female,2022-01-23 00:00:00,2022-11-25 00:00:00,MASTALGIA,16707.0,No Fraud
+03851326-7cd5-4960-b4e1-ddf7abdce5c3,55.0,Female,2023-08-08,2023-08-08,Pregnancy,86885.45,Wrong Diagnoses
+0352e020-2ec8-4485-9429-201ec34576f4,55.0,Male,2022-02-14,2022-02-19,Pregnancy,32778.05,Wrong Diagnoses
+edb5dda4-ecb7-48d9-b307-c052c5cec9e6,56.0,Male,2022-11-08,2022-11-13,Pregnancy,123921.51,Wrong Diagnoses
+0fe9d1d7-24ce-46bc-af0d-b02178833f0a,49.0,Female,2023-01-27,2023-02-05,Diabetes,104255.13,No Fraud
+9d46c3df-c8ce-42d0-b503-68f6e304c094,98.0,Female,2022-01-11,2022-01-13,Gastroenteritis,43686.93,Wrong Diagnoses
+166,45.22848664688427,Male,2024-07-17,2024-10-12,ACUTE PHARYNGOTONSILITIS OVERDOSE OF DRUGS,5000.0,No Fraud
+4057,41.0,Male,2024-11-28 00:00:00,2023-04-06 00:00:00,AMALGAM BREAKAGE,5061.0,No Fraud
+3b24594e-4dec-445c-a423-8ec5885085ff,37.0,Female,2022-01-07,2022-01-10,Cataract Surgery,157720.07,No Fraud
+c7154226-3ce1-414c-b686-db3a5b72fcf1,83.0,Male,2023-01-30,2023-02-08,Migraine,26600.86,No Fraud
+721a7bd8-fdb0-43e0-bc0b-14f078811336,41.0,Female,2024-02-23,2024-02-23,Cataract Surgery,33175.27,Wrong Diagnoses
+302,45.22848664688427,Female,2023-08-15,,GASTRITIS,3200.0,No Fraud
+c1aaed90-92c7-4036-b968-39016ca1fd5c,48.0,Female,2022-01-31,2022-02-05,Diabetes,111077.0,No Fraud
+962952fb-2b5e-43d0-83c0-03848d91816a,20.0,Female,2024-05-23,2024-05-27,Cataract Surgery,101278.46,Wrong Diagnoses
+8b2af8d0-8dcf-4ce1-afc8-2d47073a9b53,99.0,Female,2024-10-04,2024-10-05,Cancer Treatment,121998.09,Wrong Diagnoses
+45a9613d-d264-49a1-9acf-814a2741092c,92.0,Female,2024-03-11,2024-03-20,Cataract Surgery,83292.08,No Fraud
+d8918668-0f00-499d-bf7a-ff5f8a33e792,4.0,Female,2023-04-07,2023-04-09,Hypertension,69329.94,Wrong Diagnoses
+dbe780d5-99eb-45eb-b221-30c6216c9bad,6.0,Female,2023-08-01,2023-08-07,Cancer Treatment,119053.19,No Fraud
+4033,4.0,Male,2020-03-23 00:00:00,2020-11-11 00:00:00,HHDX HEART FAILURE HTN,8705.0,No Fraud
+bbcf185b-964f-421a-ba02-509205a73ba1,1.0,Male,2024-08-03,2024-08-05,Pregnancy,174123.93,Wrong Diagnoses
+3673,45.22848664688427,Female,2023-10-19,2023-10-19,RESOLVING ALLERGY/PRE DIABETIC,600.0,No Fraud
+94395b6a-252b-49d2-a6fe-bd1260dae6d3,68.0,Male,2023-11-13,2023-11-22,Pregnancy,63635.39,Wrong Diagnoses
+8e1b2eac-55b9-485f-bea0-a00d068902c6,74.0,Male,2023-06-06,2023-06-14,Cataract Surgery,153362.73,No Fraud
+d4d7bf70-07ee-45b6-8f32-c3334406301c,54.0,Female,2023-02-15,2023-02-20,Hypertension,177091.45,No Fraud
+606ff74f-628a-4558-99ad-776cdbbcee18,96.0,Male,2022-11-26,2022-11-28,Pregnancy,102485.6,Wrong Diagnoses
+9cb37c3a-153c-4598-8cdd-7948f2cda262,1.0,Female,2023-09-02,2023-09-09,Hypertension,172160.32,Wrong Diagnoses
+b76166a3-3005-4ed9-a0b3-fb23c26ba12d,54.0,Male,2022-08-19,2022-08-19,Pregnancy,199373.97,Wrong Diagnoses
+04fe1ee6-bcda-489f-8b2f-1409b29a6315,55.0,Male,2022-06-22,2022-06-28,Pregnancy,89913.41,Wrong Diagnoses
+1ed6ff4e-92ff-43bc-bef6-c5ca87539fbb,75.0,Male,2023-05-10,2023-05-10,Diabetes,140633.38,No Fraud
+e9e0cdb3-62d6-4a8d-9366-3625f65bd868,34.0,Male,2022-08-17,2022-08-20,Pregnancy,90067.95,Wrong Diagnoses
+d2d2ca2c-5bb5-45f3-86f4-f4d2896d7fda,41.0,Female,2024-12-31,2025-01-05,Pregnancy,67687.56,Wrong Diagnoses
+5a25cb68-fd32-4f8e-8b61-920548ef467f,90.0,Female,2022-02-12,2022-02-20,Cesarean Section,146457.29,No Fraud
+08377796-cda2-4689-a021-777206070f99,63.0,Male,2022-06-21,2022-06-23,Pregnancy,91274.69,Wrong Diagnoses
+69b643c3-7741-43fd-a1db-946994822568,40.0,Female,2024-01-26,2024-01-27,Routine Check-up,151718.96,Wrong Diagnoses
+b41e8eff-ab7b-4e10-b554-6e0f879734f6,50.0,Male,2024-02-11,2024-02-11,Cancer Treatment,193888.55,No Fraud
+49a59ce5-26f7-48dc-b528-90c1a0e7c38c,29.0,Female,2024-08-09,2024-08-13,Pneumonia,195973.82,Wrong Diagnoses
+4099,14.0,Male,2021-07-14 00:00:00,2022-10-10 00:00:00,CERVICAL LYMPHADENOPATHY CAUSE,15674.0,No Fraud
