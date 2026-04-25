@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Trained Models (large files — regenerate via training scripts)
+models/
+*.pkl
+
+# Plots (generated during training)
+plots/
+
+# Prediction outputs
+*_predictions.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
